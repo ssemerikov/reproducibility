@@ -1,0 +1,24 @@
+{
+  "curriculum_selection": {
+    "rated": 64,
+    "cutoff_selected": 30,
+    "shaded_selected": 41,
+    "shaded_below_cutoff": 11
+  },
+  "exit_upper_two_counts": [
+    19,
+    18,
+    15,
+    17,
+    21,
+    10,
+    26,
+    35
+  ],
+  "excluded_comparison_domains": [
+    3,
+    4
+  ],
+  "participant_level_data_used_by_this_command": false,
+  "inference": "Thesis aggregate reproduction only; no equivalent student entry/exit measure or paired student records; curriculum workbook audited separately"
+}

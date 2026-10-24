@@ -1,0 +1,304 @@
+{
+ "compiled": "2026-10-13",
+ "search_and_access_cutoff": "2026-10-12",
+ "basis": "Existing final-query request and fulltext_decisions.csv; no retrospective invention of searches or access dates.",
+ "query_log": "search_update_2026-10-12.json",
+ "limitations": [
+  "Earlier exploratory queries were not preserved verbatim; internal result logs remain available.",
+  "Source links are DOI resolvers or the official document URL, not a reconstruction of every retrieval route.",
+  "Access outcomes describe the material used by the synthesis, not a new availability check.",
+  "The combined final search result log does not identify which query returned each source."
+ ],
+ "sources": [
+  {
+   "citation_key": "Stadermann2019",
+   "selection": "included_purposively",
+   "access": "full_text_or_official_document",
+   "source_locator": "stadermann2019_local.txt; discussion and conclusions",
+   "reason": "Provides a distinct evidence role required by the three research questions",
+   "source_url": "https://doi.org/10.1103/physrevphyseducres.15.010130"
+  },
+  {
+   "citation_key": "Krijtenburg2019",
+   "selection": "included_purposively",
+   "access": "full_text_or_official_document",
+   "source_locator": "krijtenburg2019_local.txt; methods and discussion",
+   "reason": "Provides a distinct evidence role required by the three research questions",
+   "source_url": "https://doi.org/10.1080/09500693.2018.1550273"
+  },
+  {
+   "citation_key": "Merzel2024",
+   "selection": "included_purposively",
+   "access": "full_text_or_official_document",
+   "source_locator": "merzel2024_web.txt; merzel_methods_web.txt; sections 4-6",
+   "reason": "Provides a distinct evidence role required by the three research questions",
+   "source_url": "https://doi.org/10.1140/epjqt/s40507-024-00237-x"
+  },
+  {
+   "citation_key": "Nita2023",
+   "selection": "included_purposively",
+   "access": "full_text_or_official_document",
+   "source_locator": "nita2023_local.txt; discussion and conclusions",
+   "reason": "Provides a distinct evidence role required by the three research questions",
+   "source_url": "https://doi.org/10.1080/02635143.2021.1920905"
+  },
+  {
+   "citation_key": "Rasa2022",
+   "selection": "included_purposively",
+   "access": "full_text_or_official_document",
+   "source_locator": "rasa2022_web.txt; Participants, Data collection and analysis",
+   "reason": "Provides a distinct evidence role required by the three research questions",
+   "source_url": "https://doi.org/10.1007/s11251-021-09572-3"
+  },
+  {
+   "citation_key": "Satanassi2025",
+   "selection": "included_purposively",
+   "access": "full_text_or_official_document",
+   "source_locator": "satanassi2025_web.txt; sections III-IV",
+   "reason": "Provides a distinct evidence role required by the three research questions",
+   "source_url": "https://doi.org/10.1103/physrevphyseducres.21.010112"
+  },
+  {
+   "citation_key": "Nautiyal2025",
+   "selection": "included_purposively",
+   "access": "full_text_or_official_document",
+   "source_locator": "nautiyal2025_local.txt; sections 3.1,4,6.1",
+   "reason": "Provides a distinct evidence role required by the three research questions",
+   "source_url": "https://doi.org/10.1140/epjqt/s40507-025-00407-5"
+  },
+  {
+   "citation_key": "Kelly2024",
+   "selection": "included_purposively",
+   "access": "full_text_or_official_document",
+   "source_locator": "sadler_kelly_pdfs_web.txt; sections III and IV",
+   "reason": "Provides a distinct evidence role required by the three research questions",
+   "source_url": "https://doi.org/10.1103/physrevphyseducres.20.020154"
+  },
+  {
+   "citation_key": "Sciarretta2024",
+   "selection": "included_purposively",
+   "access": "full_text_or_official_document",
+   "source_locator": "additional_quantum_web.txt; source_methods_limits.txt; sections IV,VI,VII",
+   "reason": "Provides a distinct evidence role required by the three research questions",
+   "source_url": "https://doi.org/10.1103/physrevphyseducres.20.020145"
+  },
+  {
+   "citation_key": "Zeidler2019",
+   "selection": "included_purposively",
+   "access": "full_text_or_official_document",
+   "source_locator": "zeidler2019_web.txt; main theoretical discussion",
+   "reason": "Provides a distinct evidence role required by the three research questions",
+   "source_url": "https://doi.org/10.1186/s43031-019-0008-7"
+  },
+  {
+   "citation_key": "Hendriks2015",
+   "selection": "included_purposively",
+   "access": "full_text_or_official_document",
+   "source_locator": "hendriks2015_web.txt; studies and discussion",
+   "reason": "Provides a distinct evidence role required by the three research questions",
+   "source_url": "https://doi.org/10.1371/journal.pone.0139309"
+  },
+  {
+   "citation_key": "Stilgoe2013",
+   "selection": "included_purposively",
+   "access": "full_text_or_official_document",
+   "source_locator": "technical_sources_web.txt; sections 2-3; UCL PDF",
+   "reason": "Provides a distinct evidence role required by the three research questions",
+   "source_url": "https://doi.org/10.1016/j.respol.2013.05.008"
+  },
+  {
+   "citation_key": "DixonWoods2006",
+   "selection": "included_purposively",
+   "access": "full_text_or_official_document",
+   "source_locator": "dixonwoods2006_web.txt; synthesis methods",
+   "reason": "Provides a distinct evidence role required by the three research questions",
+   "source_url": "https://doi.org/10.1186/1471-2288-6-35"
+  },
+  {
+   "citation_key": "Shor1997",
+   "selection": "included_purposively",
+   "access": "full_text_or_official_document",
+   "source_locator": "technical_sources_web.txt; source_methods_limits.txt; arXiv9508027",
+   "reason": "Provides a distinct evidence role required by the three research questions",
+   "source_url": "https://doi.org/10.1137/s0097539795293172"
+  },
+  {
+   "citation_key": "Degen2017",
+   "selection": "included_purposively",
+   "access": "full_text_or_official_document",
+   "source_locator": "degen2017_web.txt; sections II,V",
+   "reason": "Provides a distinct evidence role required by the three research questions",
+   "source_url": "https://doi.org/10.1103/revmodphys.89.035002"
+  },
+  {
+   "citation_key": "NIST2024",
+   "selection": "included_purposively",
+   "access": "full_text_or_official_document",
+   "source_locator": "NIST release 13 August 2024; URL in bibliography",
+   "reason": "Provides a distinct evidence role required by the three research questions",
+   "source_url": "https://www.nist.gov/news-events/news/2024/08/nist-releases-first-3-finalized-post-quantum-encryption-standards"
+  },
+  {
+   "citation_key": "Semerikov2026",
+   "selection": "included_purposively",
+   "access": "full_text_or_official_document",
+   "source_locator": "semerikov2026_local.txt; abstract, framework, data availability",
+   "reason": "Provides a distinct evidence role required by the three research questions",
+   "source_url": "https://doi.org/10.1016/j.sftr.2026.101965"
+  },
+  {
+   "citation_key": "Lehka2021",
+   "selection": "included_purposively",
+   "access": "full_text_or_official_document",
+   "source_locator": "thesis_text.txt; pp.83-100,160-167; Appendices B,M",
+   "reason": "Provides a distinct evidence role required by the three research questions",
+   "source_url": "https://doi.org/10.31812/123456789/7042",
+   "version_note": "Related institutional record; analysed local thesis has a 2021 title page. Equivalence to the online version was not established."
+  },
+  {
+   "citation_key": "Oikonomou2026",
+   "selection": "not_used_in_synthesis",
+   "access": "abstract_and_incomplete_indexed_body",
+   "source_locator": "oikonomou2026_web.txt",
+   "reason": "Access limitation; not a quality judgement",
+   "source_url": "https://doi.org/10.1007/s44217-026-01941-9"
+  },
+  {
+   "citation_key": "DeJongDeHaro2026",
+   "selection": "included_targeted_update",
+   "access": "full_text_or_official_document",
+   "source_locator": "dejongdeharo2026_web.txt; Abstract; Sect. 3.1 (definition, CTU, CITA); Sect. 3.2 (three logical options); Sect. 3.3; Sect. 4 Conclusion",
+   "reason": "Recorded targeted update of 21 October 2026",
+   "source_url": "https://doi.org/10.1007/s11229-026-05503-2",
+   "version_note": ""
+  },
+  {
+   "citation_key": "DeJong2026",
+   "selection": "included_targeted_update",
+   "access": "full_text_or_official_document",
+   "source_locator": "dejong2026_web.txt; Abstract; 'Understanding as a Critical Enabler of Ethical Enquiry'; 'Three Types of Technological Understanding' (design, operation, innovation; functional understanding para); 'Understanding Functions rather than Physics'; Conclusion",
+   "reason": "Recorded targeted update of 21 October 2026",
+   "source_url": "https://doi.org/10.1007/s11569-026-00501-7",
+   "version_note": ""
+  },
+  {
+   "citation_key": "Greinert2023",
+   "selection": "included_targeted_update",
+   "access": "full_text_or_official_document",
+   "source_locator": "greinert2023_web.txt; Abstract; Sec. I (R1, R2); Table II; Sec. IV.4; Sec. V (version 1.0, Fig. 6 caption); Table VIII 'Soft skills, social aspects'; Fig. 9; Table X (S15, Q2); refs [19], [21]",
+   "reason": "Recorded targeted update of 21 October 2026",
+   "source_url": "https://doi.org/10.1103/physrevphyseducres.19.010137",
+   "version_note": ""
+  },
+  {
+   "citation_key": "GreinertMuller2021",
+   "selection": "included_targeted_update",
+   "access": "full_text_or_official_document",
+   "source_locator": "greinertmuller2021_web.txt; p. 2 overview (fields 1-8, subfields 8.1-8.9); p. 3 'How to use'; p. 10 field 7.1; p. 11 field 8 detail",
+   "reason": "Recorded targeted update of 21 October 2026",
+   "source_url": "https://doi.org/10.5281/zenodo.6834599",
+   "version_note": "Version 1.0 (May 2021; Zenodo record issued 7 September 2021); the version used by the thesis"
+  },
+  {
+   "citation_key": "GreinertMuller2024",
+   "selection": "included_targeted_update",
+   "access": "full_text_or_official_document",
+   "source_locator": "greinertmuller2024_web.txt; op.europa.eu record abstract and metadata; PDF p. 1 cover; p. 2 imprint; p. 3 overview; PDF p. 14 (printed p. 13) domain 8; PDF p. 18 proficiency area III A1/A2",
+   "reason": "Recorded targeted update of 21 October 2026",
+   "source_url": "https://doi.org/10.2759/389764",
+   "version_note": "Version 2.5 (April 2024); post-dates the thesis; a version 3.0 (2025) also exists"
+  },
+  {
+   "citation_key": "Inglesant2021",
+   "selection": "included_targeted_update",
+   "access": "full_text_or_official_document",
+   "source_locator": "inglesant2021_web.txt; Abstract; 'Visions of Quantum Computing'; 'Quantum supremacy' para 2; 'Conclusions' paras 4-5",
+   "reason": "Recorded targeted update of 21 October 2026",
+   "source_url": "https://doi.org/10.1080/09537325.2021.1988557",
+   "version_note": ""
+  },
+  {
+   "citation_key": "TenHolter2023",
+   "selection": "included_targeted_update",
+   "access": "full_text_or_official_document",
+   "source_locator": "tenholter2023_web.txt; Abstract; 3.1 (QML case study); 4.1 Finding 1; 4.4 Finding 4; 5.2 R2; 6 Conclusions",
+   "reason": "Recorded targeted update of 21 October 2026",
+   "source_url": "https://doi.org/10.1080/09537325.2021.1988070",
+   "version_note": ""
+  },
+  {
+   "citation_key": "Seskir2023",
+   "selection": "included_targeted_update",
+   "access": "full_text_or_official_document",
+   "source_locator": "seskir2023_web.txt; Abstract; Sect. 1 para 4; Sect. 2 (front end); Sect. 3.2.2; Sect. 4.3; Sect. 5",
+   "reason": "Recorded targeted update of 21 October 2026",
+   "source_url": "https://doi.org/10.1088/2058-9565/acb6ae",
+   "version_note": ""
+  },
+  {
+   "citation_key": "SotoSanfiel2025",
+   "selection": "included_targeted_update",
+   "access": "full_text_or_official_document",
+   "source_locator": "sotosanfiel2025_web.txt; Abstract p. 1; Methods 'Participants and procedure' p. 4; Conclusions p. 9; Limitations pp. 9-10",
+   "reason": "Recorded targeted update of 21 October 2026",
+   "source_url": "https://doi.org/10.1057/s41599-025-05200-4",
+   "version_note": ""
+  },
+  {
+   "citation_key": "Brang2025",
+   "selection": "included_targeted_update",
+   "access": "full_text_or_official_document",
+   "source_locator": "brang2025_web.txt; Abstract; 1 Introduction (Bondani et al. [13]); 1.1; 2.1; 2.3; 3 Results; 4.1; 5 Limitations; 6 Conclusion",
+   "reason": "Recorded targeted update of 21 October 2026",
+   "source_url": "https://doi.org/10.1140/epjqt/s40507-025-00403-9",
+   "version_note": ""
+  },
+  {
+   "citation_key": "ANSSI2024",
+   "selection": "included_targeted_update",
+   "access": "full_text_or_official_document",
+   "source_locator": "anssi2024_web.txt; ANSSI publication page; PDF p. 1 Executive summary; p. 2-3 Sec. 2; p. 3-4 Sec. 3; p. 4 Sec. 4; p. 5 Sec. 5 Conclusion",
+   "reason": "Recorded targeted update of 21 October 2026",
+   "source_url": "https://www.bsi.bund.de/SharedDocs/Downloads/EN/BSI/Crypto/Quantum_Positionspapier.pdf?__blob=publicationFile&v=4",
+   "version_note": "Publication page dated 25 January 2024; PDF undated"
+  },
+  {
+   "citation_key": "NCSC2025",
+   "selection": "included_targeted_update",
+   "access": "full_text_or_official_document",
+   "source_locator": "ncsc2025_web.txt; Web page: intro; 'Quantum Key Distribution' paras 1-2 and 'For these reasons' list; 'Quantum networking'; footer 'PUBLISHED 5 August 2025, VERSION 1.0'",
+   "reason": "Recorded targeted update of 21 October 2026",
+   "source_url": "https://www.ncsc.gov.uk/paper/quantum-networking-technologies",
+   "version_note": "Published 5 August 2025, version 1.0; replaces the 2020 white paper Quantum security technologies as the current position"
+  },
+  {
+   "citation_key": "Preskill2018",
+   "selection": "included_targeted_update",
+   "access": "full_text_or_official_document",
+   "source_locator": "preskill2018_web.txt; Abstract p. 1; Sec. 1 p. 1; Sec. 3.1 p. 3; Sec. 6 pp. 6-7; Sec. 6.6 pp. 10-11",
+   "reason": "Recorded targeted update of 21 October 2026",
+   "source_url": "https://doi.org/10.22331/q-2018-08-06-79",
+   "version_note": ""
+  },
+  {
+   "citation_key": "Feinstein2011",
+   "selection": "included_targeted_update",
+   "access": "abstract_only",
+   "source_locator": "feinstein2011_web.txt; Abstract (Crossref)",
+   "reason": "Recorded targeted update of 21 October 2026",
+   "source_url": "https://doi.org/10.1002/sce.20414",
+   "version_note": "Abstract only verified (paywalled)"
+  }
+ ],
+ "update_2026_10_21": {
+  "compiled": "2026-10-21",
+  "query_log": "search_update_2026-10-21.json",
+  "basis": "Queries and DOI lookups logged verbatim when run; sources reached by DOI lookup or reference tracing are recorded as such in the query log.",
+  "not_cited": [
+   "Aaronson2015 (published wording not checked)",
+   "Sadler2009, Osborne2022, VandeMerbel2024 (verified but not needed)",
+   "RobertsBybee2014, Borup2006 (content unverifiable)",
+   "NCSC2020 (superseded by NCSC2025)"
+  ]
+ }
+}

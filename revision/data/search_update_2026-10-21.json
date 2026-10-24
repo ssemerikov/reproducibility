@@ -1,0 +1,381 @@
+{
+  "date": "2026-10-21",
+  "purpose": "Recorded targeted update for HSSC revision: technology-and-society, workforce-framework, scientific-literacy, official security and computational-advantage sources",
+  "interface": "Claude Code tools: WebSearch (standard); academic-search MCP (search_papers, Crossref backend, top-10 results); Crossref and DataCite REST APIs and Zenodo records API fetched with curl in Bash (not WebFetch); doi.org resolution with curl; publisher and official pages rendered in a Playwright-controlled browser (Springer Link, Taylor & Francis, IOPscience, NCSC, ANSSI) because WebFetch/curl hit bot challenges or login redirects; PDFs downloaded with curl (Zenodo, EU Publications Office, BSI, Nature/HSSC, Quantum, Stanford) and read with pdftotext; two local PDFs in newdata/ read with pdftotext",
+  "queries": [
+    {
+      "tool": "WebSearch (standard)",
+      "q": "ANSSI BSI NLNCSA Swedish Armed Forces position paper quantum key distribution 2024",
+      "run": "2026-10-21",
+      "returned_of_interest": [],
+      "sources_retained": [],
+      "outcome": "Run by the main session before delegation to agent lit; its result list was not passed to agent lit, so no source is attributed to this entry. Where agent lit re-ran the query verbatim, the re-run is recorded as a separate entry below."
+    },
+    {
+      "tool": "WebSearch (standard)",
+      "q": "NCSC UK white paper quantum security technologies quantum key distribution not endorse",
+      "run": "2026-10-21",
+      "returned_of_interest": [],
+      "sources_retained": [],
+      "outcome": "Run by the main session before delegation to agent lit; its result list was not passed to agent lit, so no source is attributed to this entry. Where agent lit re-ran the query verbatim, the re-run is recorded as a separate entry below."
+    },
+    {
+      "tool": "academic-search (Crossref)",
+      "q": "De Jong De Haro technological understanding quantum technologies",
+      "run": "2026-10-21",
+      "returned_of_interest": [],
+      "sources_retained": [],
+      "outcome": "Run by the main session before delegation to agent lit; its result list was not passed to agent lit, so no source is attributed to this entry. Where agent lit re-ran the query verbatim, the re-run is recorded as a separate entry below."
+    },
+    {
+      "tool": "academic-search (Crossref)",
+      "q": "Greinert industry insights qualification training needs quantum technology workforce EPJ Quantum Technology 2024",
+      "run": "2026-10-21",
+      "returned_of_interest": [],
+      "sources_retained": [],
+      "outcome": "Run by the main session before delegation to agent lit; its result list was not passed to agent lit, so no source is attributed to this entry. Where agent lit re-ran the query verbatim, the re-run is recorded as a separate entry below."
+    },
+    {
+      "tool": "academic-search search_papers (Crossref), re-run by agent lit",
+      "q": "De Jong De Haro technological understanding quantum technologies",
+      "run": "2026-10-21",
+      "returned_of_interest": [
+        "DeJongDeHaro2026 (10.1007/s11229-026-05503-2)",
+        "DeJong2026 (10.1007/s11569-026-00501-7)",
+        "SSRN preprints 10.2139/ssrn.5162579, 10.2139/ssrn.5195814, 10.2139/ssrn.7516499 (not examined)"
+      ],
+      "sources_retained": [
+        "DeJongDeHaro2026",
+        "DeJong2026"
+      ],
+      "outcome": "10 Crossref results; both target articles returned (already verified via Crossref DOI lookup and Springer full text)"
+    },
+    {
+      "tool": "academic-search search_papers (Crossref), re-run by agent lit",
+      "q": "Greinert industry insights qualification training needs quantum technology workforce EPJ Quantum Technology 2024",
+      "run": "2026-10-21",
+      "returned_of_interest": [
+        "Greinert2024industry (10.1140/epjqt/s40507-024-00294-2)",
+        "Greinert2025extending (10.1140/epjqt/s40507-024-00302-5)",
+        "Greinert2023frontiers (10.3389/frqst.2023.1225733)",
+        "Brang2025 (10.1140/epjqt/s40507-025-00403-9)"
+      ],
+      "sources_retained": [
+        "Brang2025"
+      ],
+      "outcome": "10 Crossref results; CFQT-related papers and Brang 2025 returned"
+    },
+    {
+      "tool": "academic-search search_papers (Crossref)",
+      "q": "responsible innovation quantum computing Technology Analysis Strategic Management",
+      "run": "2026-10-21",
+      "returned_of_interest": [
+        "Inglesant2021 (10.1080/09537325.2021.1988557)",
+        "TenHolter2023 (10.1080/09537325.2021.1988070)",
+        "Inglesant2021 open-access book chapter reprint 10.4324/9781003510024-7 (noted, not examined)"
+      ],
+      "sources_retained": [
+        "Inglesant2021",
+        "TenHolter2023"
+      ],
+      "outcome": "10 Crossref results; both TASM responsible-innovation papers returned"
+    },
+    {
+      "tool": "academic-search search_papers (Crossref)",
+      "q": "democratization of quantum technologies",
+      "run": "2026-10-21",
+      "returned_of_interest": [
+        "Seskir2023 (10.1088/2058-9565/acb6ae)"
+      ],
+      "sources_retained": [
+        "Seskir2023"
+      ],
+      "outcome": "10 Crossref results; Seskir et al. 2023 first result"
+    },
+    {
+      "tool": "academic-search search_papers (Crossref)",
+      "q": "hype in science communication quantum physics",
+      "run": "2026-10-21",
+      "returned_of_interest": [
+        "SotoSanfiel2025 (10.1057/s41599-025-05200-4)",
+        "Wang2026 omgc (10.1515/omgc-2025-0009, noted, not examined)",
+        "Doyle2026 EJP (10.1088/1361-6404/ae3ae6, noted, not examined)"
+      ],
+      "sources_retained": [
+        "SotoSanfiel2025"
+      ],
+      "outcome": "10 Crossref results; HSSC 2025 hype paper returned"
+    },
+    {
+      "tool": "WebSearch (standard), re-run by agent lit",
+      "q": "ANSSI BSI NLNCSA Swedish Armed Forces position paper quantum key distribution 2024",
+      "run": "2026-10-21",
+      "returned_of_interest": [
+        "ANSSI2024 (forsvarsmakten.se PDF; BSI Quantum_Positionspapier page; cyber.gouv.fr page)",
+        "NUKIB letter of support Sept 2024 (noted, not examined)"
+      ],
+      "sources_retained": [
+        "ANSSI2024"
+      ],
+      "outcome": "10 links; official PDF at forsvarsmakten.se and BSI/ANSSI pages returned; the forsvarsmakten.se PDF URL returned HTTP 404 on 2026-10-21, so the identical paper was read from the BSI PDF linked as 'Read the full document' on the returned ANSSI page"
+    },
+    {
+      "tool": "WebSearch (standard), re-run by agent lit",
+      "q": "NCSC UK white paper quantum security technologies quantum key distribution not endorse",
+      "run": "2026-10-21",
+      "returned_of_interest": [
+        "NCSC2020 (ncsc.gov.uk/pdfs/whitepaper/quantum-security-technologies.pdf)",
+        "NCSC2025 (ncsc.gov.uk/whitepaper/quantum-networking-technologies; /pdfs/whitepaper/quantum-networking-technologies.pdf)"
+      ],
+      "sources_retained": [
+        "NCSC2020",
+        "NCSC2025"
+      ],
+      "outcome": "10 links; both NCSC papers returned; redirect of /whitepaper/quantum-security-technologies to networking paper suggested by result titles"
+    },
+    {
+      "tool": "academic-search search_papers (Crossref)",
+      "q": "Aaronson read the fine print quantum algorithms",
+      "run": "2026-10-21",
+      "returned_of_interest": [
+        "Aaronson2015 (10.1038/nphys3272)"
+      ],
+      "sources_retained": [
+        "Aaronson2015"
+      ],
+      "outcome": "10 Crossref results; Aaronson 2015 Nature Physics first result"
+    },
+    {
+      "tool": "academic-search search_papers (Crossref)",
+      "q": "Quantum computing in the NISQ era and beyond",
+      "run": "2026-10-21",
+      "returned_of_interest": [
+        "Preskill2018 (10.22331/q-2018-08-06-79)"
+      ],
+      "sources_retained": [
+        "Preskill2018"
+      ],
+      "outcome": "10 Crossref results; Preskill 2018 first result"
+    },
+    {
+      "tool": "academic-search search_papers (Crossref)",
+      "q": "quantum advantage problem-specific claims speedup scrutiny classical algorithms",
+      "run": "2026-10-21",
+      "returned_of_interest": [
+        "LaRose2026 (10.22331/q-2026-09-01-2198, A brief history of quantum vs classical computational advantage; noted, not examined)"
+      ],
+      "sources_retained": [],
+      "outcome": "10 Crossref results; no direct hit for Aaronson/Preskill; one possibly relevant 2026 review noted but not examined"
+    },
+    {
+      "tool": "WebSearch (standard)",
+      "q": "Aaronson \"Read the fine print\" Nature Physics 2015 quantum machine learning pdf",
+      "run": "2026-10-21",
+      "returned_of_interest": [],
+      "sources_retained": [],
+      "outcome": "9 links; none was Aaronson 2015 or an author copy"
+    },
+    {
+      "tool": "academic-search search_papers (Crossref)",
+      "q": "Feinstein salvaging science literacy competent outsiders",
+      "run": "2026-10-21",
+      "returned_of_interest": [
+        "Feinstein2011 (10.1002/sce.20414)"
+      ],
+      "sources_retained": [
+        "Feinstein2011"
+      ],
+      "outcome": "10 Crossref results; Feinstein 2011 first result"
+    },
+    {
+      "tool": "WebSearch (standard)",
+      "q": "Osborne Pimentel \"Science Education in an Age of Misinformation\" 2022 Stanford report pdf",
+      "run": "2026-10-21",
+      "returned_of_interest": [
+        "Osborne2022 (English PDF copy on eepro-dev.naaee.org; Portuguese translation on sciedandmisinfo.stanford.edu; ed.stanford.edu news)"
+      ],
+      "sources_retained": [
+        "Osborne2022"
+      ],
+      "outcome": "10 links; English report PDF only on a third-party host (NAAEE); official Stanford project site returned for Portuguese translation"
+    },
+    {
+      "tool": "academic-search search_papers (Crossref)",
+      "q": "Roberts Bybee scientific literacy science literacy and science education Handbook of Research on Science Education Volume II",
+      "run": "2026-10-21",
+      "returned_of_interest": [
+        "RobertsBybee2014 (10.4324/9780203097267.ch27; also 10.4324/9780203097267-38)"
+      ],
+      "sources_retained": [],
+      "outcome": "10 Crossref results; two DOIs for the same chapter returned; text not accessible (Routledge, paywalled)"
+    },
+    {
+      "tool": "academic-search search_papers (Crossref)",
+      "q": "sociology of expectations in science and technology Borup Brown Konrad Van Lente",
+      "run": "2026-10-21",
+      "returned_of_interest": [
+        "Borup2006 (10.1080/09537320600777002)"
+      ],
+      "sources_retained": [],
+      "outcome": "5 Crossref results; Borup et al. 2006 first result"
+    },
+    {
+      "tool": "academic-search search_papers (Crossref)",
+      "q": "citizens attitudes and knowledge of quantum science and technology survey",
+      "run": "2026-10-21",
+      "returned_of_interest": [
+        "VandeMerbel2024 (10.1088/2399-6528/ad48d3)",
+        "VandeMerbel preprint (10.31219/osf.io/qewta, not examined)"
+      ],
+      "sources_retained": [
+        "VandeMerbel2024"
+      ],
+      "outcome": "10 Crossref results; Van de Merbel et al. 2024 (J. Phys. Commun.) returned; query terms informed by DeJong2026 ref. [22]"
+    }
+  ],
+  "doi_lookups": [
+    {
+      "doi": "10.1007/s11569-026-00501-7",
+      "method": "main session (before delegation)",
+      "run": "2026-10-21",
+      "outcome": "run before delegation; result not passed to agent lit"
+    },
+    {
+      "doi": "10.1007/s11229-026-05503-2",
+      "method": "main session (before delegation)",
+      "run": "2026-10-21",
+      "outcome": "run before delegation; result not passed to agent lit"
+    },
+    {
+      "doi": "10.1007/s11229-026-05503-2",
+      "method": "Crossref REST API (curl https://api.crossref.org/works/<DOI>)",
+      "run": "2026-10-21",
+      "outcome": "found: de Jong & De Haro, Technological Understanding, Synthese 207(3), article 121, published online 2026-03-12, CC BY 4.0"
+    },
+    {
+      "doi": "10.1007/s11569-026-00501-7",
+      "method": "Crossref REST API (curl)",
+      "run": "2026-10-21",
+      "outcome": "found: de Jong, Functional Understanding of Quantum Technologies is Essential to the Ethical Debate About Their Impact, NanoEthics 20(1), article 12, online 2026-03-06, CC BY 4.0"
+    },
+    {
+      "doi": "10.1103/PhysRevPhysEducRes.19.010137",
+      "method": "Crossref REST API (curl)",
+      "run": "2026-10-21",
+      "outcome": "found: Greinert et al. 2023, PRPER 19(1), article 010137, published 2023-06-05, CC BY 4.0; local PDF read; literature index L03149"
+    },
+    {
+      "doi": "10.1103/PhysRevPhysEducRes.15.010130",
+      "method": "Crossref REST API (curl)",
+      "run": "2026-10-21",
+      "outcome": "found: Stadermann, van den Berg & Goedhart 2019, PRPER 15(1), article 010130, published 2019-05-22; literature index L03128"
+    },
+    {
+      "doi": "10.5281/zenodo.6834599",
+      "method": "DataCite REST API + Zenodo records API (curl); DOI obtained by reference tracing from Greinert et al. 2023 ref. [19]",
+      "run": "2026-10-21",
+      "outcome": "found: Greinert & Müller, European Competence Framework for Quantum Technologies, Version 1.0, Zenodo, issued 2021-09-07 (document states 'Version 1.0 (May 2021)'); PDF downloaded"
+    },
+    {
+      "doi": "10.5281/zenodo.6834598",
+      "method": "DataCite REST API + Zenodo records API (curl); concept DOI from Greinert et al. 2023 ref. [21]",
+      "run": "2026-10-21",
+      "outcome": "found: concept record, latest version 3.0 (2025-04-14); versions 1.0 (6834599), 2.0 (7827254, 2023-04-14), 2.5 (10976836, 2024-04), 3.0 (15209861, 2025-04-14)"
+    },
+    {
+      "doi": "10.2759/389764",
+      "method": "doi.org resolution (curl) to op.europa.eu publication page + PDF download",
+      "run": "2026-10-21",
+      "outcome": "found: CFQT Version 2.5 (April 2024), Publications Office of the EU 2024, PDF ISBN 978-92-68-16473-0, KK-05-24-381-EN-N, released 2024-08-07; page states a newer edition exists. NOT version 1.0. Crossref and DataCite APIs both returned not found for this DOI."
+    },
+    {
+      "doi": "10.2759/8917117",
+      "method": "read from imprint of Zenodo v3.0 PDF (record 15209861); not resolved separately",
+      "run": "2026-10-21",
+      "outcome": "CFQT Version 3.0 (April 2025), Publications Office 2025, PDF ISBN 978-92-68-26104-0, KK-01-25-031-EN-N"
+    },
+    {
+      "doi": "10.1080/09537325.2021.1988557",
+      "method": "Crossref REST API (curl)",
+      "run": "2026-10-21",
+      "outcome": "found: Inglesant, Ten Holter, Jirotka & Williams, TASM 33(11):1364-1376, online 2021-10-25, CC BY 4.0; literature index L02436"
+    },
+    {
+      "doi": "10.1080/09537325.2021.1988070",
+      "method": "Crossref REST API (curl)",
+      "run": "2026-10-21",
+      "outcome": "found: Ten Holter, Inglesant & Jirotka, TASM 35(7):844-856, online 2021-10-06, issue 2023; CC BY 4.0; literature index L02435"
+    },
+    {
+      "doi": "10.1088/2058-9565/acb6ae",
+      "method": "Crossref REST API (curl)",
+      "run": "2026-10-21",
+      "outcome": "found: Seskir, Umbrello, Coenen & Vermaas, Quantum Sci. Technol. 8(2):024005, online 2023-02-07, CC BY 4.0; literature index L02983"
+    },
+    {
+      "doi": "10.1057/s41599-025-05200-4",
+      "method": "Crossref REST API (curl)",
+      "run": "2026-10-21",
+      "outcome": "found: Soto-Sanfiel, Chong & Latorre, Hype in science communication: exploring scientists' attitudes and practices in quantum physics, Humanit. Soc. Sci. Commun. 12(1), article 845, published 2025-06-17, CC BY-NC-ND 4.0"
+    },
+    {
+      "doi": "10.1140/epjqt/s40507-025-00403-9",
+      "method": "Crossref REST API (curl)",
+      "run": "2026-10-21",
+      "outcome": "found: Brang, Greinert, Ubben, Franke & Bitzenbauer, Quantum terminology in pseudoscience: exploration of pre-service physics teachers' reasonings, EPJ Quantum Technol. 12(1), article 96, online 2025-08-07, CC BY 4.0; literature index L03960"
+    },
+    {
+      "doi": "10.1038/nphys3272",
+      "method": "Crossref REST API (curl)",
+      "run": "2026-10-21",
+      "outcome": "found: Aaronson, Read the fine print, Nature Physics 11(4):291-293, online 2015-04-02; licence springer tdm (not open access); nature.com PDF request returned HTML (paywall)"
+    },
+    {
+      "doi": "10.22331/q-2018-08-06-79",
+      "method": "Crossref REST API (curl)",
+      "run": "2026-10-21",
+      "outcome": "found: Preskill, Quantum Computing in the NISQ era and beyond, Quantum 2, 79, published 2018-08-06, CC BY 4.0; legacy literature index L04952; PDF from quantum-journal.org read"
+    },
+    {
+      "doi": "10.1080/03057260802681839",
+      "method": "Crossref REST API (curl) + T&F landing page (browser)",
+      "run": "2026-10-21",
+      "outcome": "found: Sadler, Situated learning in science education: socio-scientific issues as contexts for practice, Stud. Sci. Educ. 45(1):1-42, March 2009; no licence (paywalled; abstract only); legacy literature index L02204"
+    },
+    {
+      "doi": "10.1002/sce.20414",
+      "method": "Crossref REST API (curl)",
+      "run": "2026-10-21",
+      "outcome": "found: Feinstein, Salvaging science literacy, Science Education 95(1):168-185, online 2010-09-20, issue Jan 2011; Wiley licence (paywalled); abstract via Crossref; legacy literature index L00155"
+    },
+    {
+      "doi": "10.4324/9780203097267.ch27 ; 10.4324/9780203097267-38",
+      "method": "Crossref REST API (curl)",
+      "run": "2026-10-21",
+      "outcome": "two Crossref records for the same Routledge chapter: .ch27 has authors Roberts & Bybee but no date/pages; -38 has pages 559-572 and date 2014-07-11 but no authors; editors not given by Crossref; text not accessed"
+    },
+    {
+      "doi": "10.1088/2399-6528/ad48d3",
+      "method": "Crossref REST API (curl)",
+      "run": "2026-10-21",
+      "outcome": "found: van de Merbel, Peer, Willems & Cramer, J. Phys. Commun. 8(7):075005, 2024, CC BY 4.0"
+    },
+    {
+      "doi": "10.1080/09537320600777002",
+      "method": "Crossref REST API (curl) + T&F landing page (browser)",
+      "run": "2026-10-21",
+      "outcome": "found: Borup, Brown, Konrad & Van Lente, The sociology of expectations in science and technology, TASM 18(3-4):285-298, July 2006; paywalled; landing page shows no abstract (only notes); content not verified"
+    }
+  ],
+  "limitations": [
+    "Four queries and two DOI lookups listed first were run by the main session before delegation to agent lit; their result lists were not passed on, so no source is attributed to them. Agent lit re-ran the four queries verbatim (separate entries) and attributes sources only to those re-runs.",
+    "academic-search returns at most 10 Crossref records per query and WebSearch about 10 links; 'returned_of_interest' lists only records relevant to the brief, not every result.",
+    "This is a targeted, source-verification update for named candidates, not a systematic search or screen; no inclusion/exclusion screening was applied beyond verifying each named source.",
+    "Sources reached without a recorded query are marked as such in lit_sources.json (DOI lookup of brief-supplied DOIs; local PDFs supplied in the brief; reference tracing from Greinert et al. 2023 ref. [19] for CFQT v1.0).",
+    "10.2759/389764 is not indexed by the Crossref or DataCite APIs; it resolves via doi.org to the EU Publications Office record of CFQT Version 2.5 (2024), not Version 1.0 (2021).",
+    "Date of the ANSSI/BSI/NLNCSA/Swedish Armed Forces QKD position paper: the ANSSI page states 'Published on Thursday 25 January 2024'; the PDF is undated; the brief's 26 January 2024 could not be confirmed.",
+    "Paywalled sources were verified from abstracts only (Sadler 2009 via publisher page; Feinstein 2011 via Crossref abstract). Aaronson 2015 was read from the author's pre-publication copy; the published Nature Physics wording was not checked.",
+    "Roberts & Bybee 2014 and Borup et al. 2006: only Crossref metadata confirmed; content unverifiable here and not to be cited for specific claims.",
+    "Candidates noted in results or reference lists but NOT examined: Greinert et al. 2024 EPJ QT (10.1140/epjqt/s40507-024-00294-2), Greinert et al. 2025 EPJ QT (10.1140/epjqt/s40507-024-00302-5), Greinert et al. 2023 Front. Quantum Sci. Technol. (10.3389/frqst.2023.1225733), Bondani et al. 2024 PSEUDO-QM scale (10.1080/02635143.2024.2390847), LaRose 2026 Quantum (10.22331/q-2026-09-01-2198), de Jong & De Haro 2025 arXiv:2503.21437, Wang & Xu 2026 (10.1515/omgc-2025-0009), Doyle et al. 2026 (10.1088/1361-6404/ae3ae6)."
+  ]
+}

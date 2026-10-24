@@ -1,0 +1,9 @@
+domain_id,domain,sufficient_or_high_n,denominator,percent,baseline_conflict,interpretation
+1,Physical foundations,19,45,42.2,False,Exit classification only; not a gain estimate
+2,Mathematical foundations,18,45,40.0,False,Exit classification only; not a gain estimate
+3,Enabling technologies,15,45,33.3,True,Exit classification only; not a gain estimate
+4,Computer and sensor hardware,17,45,37.8,True,Exit classification only; not a gain estimate
+5,Computing and simulation,21,45,46.7,False,Exit classification only; not a gain estimate
+6,Sensing and metrology,10,45,22.2,False,Exit classification only; not a gain estimate
+7,Quantum communication,26,45,57.8,False,Exit classification only; not a gain estimate
+8,Practical and general competencies,35,45,77.8,False,Exit classification only; not a gain estimate

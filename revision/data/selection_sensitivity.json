@@ -1,0 +1,33 @@
+{
+  "factorial_scenarios": 12,
+  "selected_in_all": 15,
+  "selected_in_none": 10,
+  "item_8_03_selected_scenarios": 9,
+  "equal_weighting_at_045": {
+    "added": [
+      "6.03",
+      "8.03"
+    ],
+    "dropped": [
+      "5.08",
+      "5.09",
+      "7.01"
+    ]
+  },
+  "judgement_added": {
+    "1.03": 115,
+    "1.07": 92,
+    "4.01": 111,
+    "4.05": 111,
+    "5.01": 105,
+    "5.02": 120,
+    "5.03": 119,
+    "5.06": 110,
+    "5.07": 116,
+    "5.11": 117,
+    "5.14": 117
+  },
+  "judgement_added_scoring_below_8_03": 9,
+  "items_6_03_and_8_03_in_final_selection": [],
+  "scope": "Descriptive sensitivity of selection to coding, self-rated familiarity weights and range fraction; weights are self-ratings, not measured expertise"
+}

@@ -1,0 +1,19 @@
+{
+  "raw_entries": 9035,
+  "raw_entries_by_collection": {
+    "legacy_scopus": 595,
+    "legacy_wos": 7185,
+    "related_paper_scopus": 1255
+  },
+  "unique_records": 7029,
+  "unique_with_doi": 5978,
+  "discovery_counts": {
+    "not_selected_by_discovery_rule": 6105,
+    "B_quantum_education": 423,
+    "A_quantum_secondary": 202,
+    "D_supporting_theory": 295,
+    "C_quantum_societal": 4
+  },
+  "parse_errors": [],
+  "note": "Discovery rules generate candidates; they do not establish relevance, full-text access or quality. Selection is in fulltext_decisions.csv."
+}

@@ -1,0 +1,10 @@
+item_id,item_en,reported_percent,reported_sample,source_locator,count_reconstructed,note
+T01,School education should reflect contemporary achievements,100,26,Thesis p.83,false,"Reported opinion, not observed teaching practice"
+T02,Always uses cloud technologies in teaching,65.4,26,Thesis p.83,false,Self-report
+T03,Uses cloud technologies during distance education only,34.6,26,Thesis p.83,false,Self-report
+T04,Content should be adapted to learners age,96.2,26,Thesis p.84,false,Opinion
+T05,"Welcomes new topics, especially with adequate methodological support",96.2,26,Thesis p.84,false,Compound conditional item
+T06,Would personally like to take the quantum informatics course,88.5,26,Thesis p.84,false,Interest does not demonstrate teaching readiness
+T07,Would propose the course at own institution,61.6,26,Thesis p.84,false,As printed; percentage does not match standard one-decimal rounding of a fraction with denominator 26; retain without inferring a count
+T08,Would not propose the course because it would not fit the institution profile,23.1,26,Thesis p.84,false,As printed; reason as stated by respondents; no count inferred
+T09,Would not propose the course (answered no),3.8,26,Thesis p.84,false,"As printed; T07, T08 and T09 sum to 88.5 percent; remainder not reported"

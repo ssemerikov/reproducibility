@@ -1,0 +1,129 @@
+domain_id,domain,occasion,level,count,reported_cohort,distribution_total,source_kind,source_locator,comparison_eligible,interpretation
+1,Physical foundations,before,initial,30,45,45,table,"Word table 32 (zero-based); Table 2.28, p.163",true,Published marginal counts; non-equivalent entry/exit assessments; no paired inference
+1,Physical foundations,before,intermediate,15,45,45,table,"Word table 32 (zero-based); Table 2.28, p.163",true,Published marginal counts; non-equivalent entry/exit assessments; no paired inference
+1,Physical foundations,before,sufficient,0,45,45,table,"Word table 32 (zero-based); Table 2.28, p.163",true,Published marginal counts; non-equivalent entry/exit assessments; no paired inference
+1,Physical foundations,before,high,0,45,45,table,"Word table 32 (zero-based); Table 2.28, p.163",true,Published marginal counts; non-equivalent entry/exit assessments; no paired inference
+2,Mathematical foundations,before,initial,17,45,45,table,"Word table 32 (zero-based); Table 2.28, p.163",true,Published marginal counts; non-equivalent entry/exit assessments; no paired inference
+2,Mathematical foundations,before,intermediate,28,45,45,table,"Word table 32 (zero-based); Table 2.28, p.163",true,Published marginal counts; non-equivalent entry/exit assessments; no paired inference
+2,Mathematical foundations,before,sufficient,0,45,45,table,"Word table 32 (zero-based); Table 2.28, p.163",true,Published marginal counts; non-equivalent entry/exit assessments; no paired inference
+2,Mathematical foundations,before,high,0,45,45,table,"Word table 32 (zero-based); Table 2.28, p.163",true,Published marginal counts; non-equivalent entry/exit assessments; no paired inference
+3,Enabling technologies,before,initial,40,45,45,table,"Word table 32 (zero-based); Table 2.28, p.163",false,Published marginal counts; non-equivalent entry/exit assessments; no paired inference
+3,Enabling technologies,before,intermediate,5,45,45,table,"Word table 32 (zero-based); Table 2.28, p.163",false,Published marginal counts; non-equivalent entry/exit assessments; no paired inference
+3,Enabling technologies,before,sufficient,0,45,45,table,"Word table 32 (zero-based); Table 2.28, p.163",false,Published marginal counts; non-equivalent entry/exit assessments; no paired inference
+3,Enabling technologies,before,high,0,45,45,table,"Word table 32 (zero-based); Table 2.28, p.163",false,Published marginal counts; non-equivalent entry/exit assessments; no paired inference
+4,Computer and sensor hardware,before,initial,41,45,45,table,"Word table 32 (zero-based); Table 2.28, p.163",false,Published marginal counts; non-equivalent entry/exit assessments; no paired inference
+4,Computer and sensor hardware,before,intermediate,4,45,45,table,"Word table 32 (zero-based); Table 2.28, p.163",false,Published marginal counts; non-equivalent entry/exit assessments; no paired inference
+4,Computer and sensor hardware,before,sufficient,0,45,45,table,"Word table 32 (zero-based); Table 2.28, p.163",false,Published marginal counts; non-equivalent entry/exit assessments; no paired inference
+4,Computer and sensor hardware,before,high,0,45,45,table,"Word table 32 (zero-based); Table 2.28, p.163",false,Published marginal counts; non-equivalent entry/exit assessments; no paired inference
+5,Computing and simulation,before,initial,41,45,45,table,"Word table 32 (zero-based); Table 2.28, p.163",true,Published marginal counts; non-equivalent entry/exit assessments; no paired inference
+5,Computing and simulation,before,intermediate,4,45,45,table,"Word table 32 (zero-based); Table 2.28, p.163",true,Published marginal counts; non-equivalent entry/exit assessments; no paired inference
+5,Computing and simulation,before,sufficient,0,45,45,table,"Word table 32 (zero-based); Table 2.28, p.163",true,Published marginal counts; non-equivalent entry/exit assessments; no paired inference
+5,Computing and simulation,before,high,0,45,45,table,"Word table 32 (zero-based); Table 2.28, p.163",true,Published marginal counts; non-equivalent entry/exit assessments; no paired inference
+6,Sensing and metrology,before,initial,44,45,45,table,"Word table 32 (zero-based); Table 2.28, p.163",true,Published marginal counts; non-equivalent entry/exit assessments; no paired inference
+6,Sensing and metrology,before,intermediate,1,45,45,table,"Word table 32 (zero-based); Table 2.28, p.163",true,Published marginal counts; non-equivalent entry/exit assessments; no paired inference
+6,Sensing and metrology,before,sufficient,0,45,45,table,"Word table 32 (zero-based); Table 2.28, p.163",true,Published marginal counts; non-equivalent entry/exit assessments; no paired inference
+6,Sensing and metrology,before,high,0,45,45,table,"Word table 32 (zero-based); Table 2.28, p.163",true,Published marginal counts; non-equivalent entry/exit assessments; no paired inference
+7,Quantum communication,before,initial,42,45,45,table,"Word table 32 (zero-based); Table 2.28, p.163",true,Published marginal counts; non-equivalent entry/exit assessments; no paired inference
+7,Quantum communication,before,intermediate,3,45,45,table,"Word table 32 (zero-based); Table 2.28, p.163",true,Published marginal counts; non-equivalent entry/exit assessments; no paired inference
+7,Quantum communication,before,sufficient,0,45,45,table,"Word table 32 (zero-based); Table 2.28, p.163",true,Published marginal counts; non-equivalent entry/exit assessments; no paired inference
+7,Quantum communication,before,high,0,45,45,table,"Word table 32 (zero-based); Table 2.28, p.163",true,Published marginal counts; non-equivalent entry/exit assessments; no paired inference
+8,Practical and general competencies,before,initial,18,45,45,table,"Word table 32 (zero-based); Table 2.28, p.163",true,Published marginal counts; non-equivalent entry/exit assessments; no paired inference
+8,Practical and general competencies,before,intermediate,27,45,45,table,"Word table 32 (zero-based); Table 2.28, p.163",true,Published marginal counts; non-equivalent entry/exit assessments; no paired inference
+8,Practical and general competencies,before,sufficient,0,45,45,table,"Word table 32 (zero-based); Table 2.28, p.163",true,Published marginal counts; non-equivalent entry/exit assessments; no paired inference
+8,Practical and general competencies,before,high,0,45,45,table,"Word table 32 (zero-based); Table 2.28, p.163",true,Published marginal counts; non-equivalent entry/exit assessments; no paired inference
+1,Physical foundations,after,initial,6,45,45,table,"Word table 32 (zero-based); Table 2.28, p.163",true,Published marginal counts; non-equivalent entry/exit assessments; no paired inference
+1,Physical foundations,after,intermediate,20,45,45,table,"Word table 32 (zero-based); Table 2.28, p.163",true,Published marginal counts; non-equivalent entry/exit assessments; no paired inference
+1,Physical foundations,after,sufficient,16,45,45,table,"Word table 32 (zero-based); Table 2.28, p.163",true,Published marginal counts; non-equivalent entry/exit assessments; no paired inference
+1,Physical foundations,after,high,3,45,45,table,"Word table 32 (zero-based); Table 2.28, p.163",true,Published marginal counts; non-equivalent entry/exit assessments; no paired inference
+2,Mathematical foundations,after,initial,4,45,45,table,"Word table 32 (zero-based); Table 2.28, p.163",true,Published marginal counts; non-equivalent entry/exit assessments; no paired inference
+2,Mathematical foundations,after,intermediate,23,45,45,table,"Word table 32 (zero-based); Table 2.28, p.163",true,Published marginal counts; non-equivalent entry/exit assessments; no paired inference
+2,Mathematical foundations,after,sufficient,15,45,45,table,"Word table 32 (zero-based); Table 2.28, p.163",true,Published marginal counts; non-equivalent entry/exit assessments; no paired inference
+2,Mathematical foundations,after,high,3,45,45,table,"Word table 32 (zero-based); Table 2.28, p.163",true,Published marginal counts; non-equivalent entry/exit assessments; no paired inference
+3,Enabling technologies,after,initial,8,45,45,table,"Word table 32 (zero-based); Table 2.28, p.163",false,Published marginal counts; non-equivalent entry/exit assessments; no paired inference
+3,Enabling technologies,after,intermediate,22,45,45,table,"Word table 32 (zero-based); Table 2.28, p.163",false,Published marginal counts; non-equivalent entry/exit assessments; no paired inference
+3,Enabling technologies,after,sufficient,13,45,45,table,"Word table 32 (zero-based); Table 2.28, p.163",false,Published marginal counts; non-equivalent entry/exit assessments; no paired inference
+3,Enabling technologies,after,high,2,45,45,table,"Word table 32 (zero-based); Table 2.28, p.163",false,Published marginal counts; non-equivalent entry/exit assessments; no paired inference
+4,Computer and sensor hardware,after,initial,5,45,45,table,"Word table 32 (zero-based); Table 2.28, p.163",false,Published marginal counts; non-equivalent entry/exit assessments; no paired inference
+4,Computer and sensor hardware,after,intermediate,23,45,45,table,"Word table 32 (zero-based); Table 2.28, p.163",false,Published marginal counts; non-equivalent entry/exit assessments; no paired inference
+4,Computer and sensor hardware,after,sufficient,15,45,45,table,"Word table 32 (zero-based); Table 2.28, p.163",false,Published marginal counts; non-equivalent entry/exit assessments; no paired inference
+4,Computer and sensor hardware,after,high,2,45,45,table,"Word table 32 (zero-based); Table 2.28, p.163",false,Published marginal counts; non-equivalent entry/exit assessments; no paired inference
+5,Computing and simulation,after,initial,5,45,45,table,"Word table 32 (zero-based); Table 2.28, p.163",true,Published marginal counts; non-equivalent entry/exit assessments; no paired inference
+5,Computing and simulation,after,intermediate,19,45,45,table,"Word table 32 (zero-based); Table 2.28, p.163",true,Published marginal counts; non-equivalent entry/exit assessments; no paired inference
+5,Computing and simulation,after,sufficient,18,45,45,table,"Word table 32 (zero-based); Table 2.28, p.163",true,Published marginal counts; non-equivalent entry/exit assessments; no paired inference
+5,Computing and simulation,after,high,3,45,45,table,"Word table 32 (zero-based); Table 2.28, p.163",true,Published marginal counts; non-equivalent entry/exit assessments; no paired inference
+6,Sensing and metrology,after,initial,10,45,45,table,"Word table 32 (zero-based); Table 2.28, p.163",true,Published marginal counts; non-equivalent entry/exit assessments; no paired inference
+6,Sensing and metrology,after,intermediate,25,45,45,table,"Word table 32 (zero-based); Table 2.28, p.163",true,Published marginal counts; non-equivalent entry/exit assessments; no paired inference
+6,Sensing and metrology,after,sufficient,9,45,45,table,"Word table 32 (zero-based); Table 2.28, p.163",true,Published marginal counts; non-equivalent entry/exit assessments; no paired inference
+6,Sensing and metrology,after,high,1,45,45,table,"Word table 32 (zero-based); Table 2.28, p.163",true,Published marginal counts; non-equivalent entry/exit assessments; no paired inference
+7,Quantum communication,after,initial,4,45,45,table,"Word table 32 (zero-based); Table 2.28, p.163",true,Published marginal counts; non-equivalent entry/exit assessments; no paired inference
+7,Quantum communication,after,intermediate,15,45,45,table,"Word table 32 (zero-based); Table 2.28, p.163",true,Published marginal counts; non-equivalent entry/exit assessments; no paired inference
+7,Quantum communication,after,sufficient,23,45,45,table,"Word table 32 (zero-based); Table 2.28, p.163",true,Published marginal counts; non-equivalent entry/exit assessments; no paired inference
+7,Quantum communication,after,high,3,45,45,table,"Word table 32 (zero-based); Table 2.28, p.163",true,Published marginal counts; non-equivalent entry/exit assessments; no paired inference
+8,Practical and general competencies,after,initial,3,45,45,table,"Word table 32 (zero-based); Table 2.28, p.163",true,Published marginal counts; non-equivalent entry/exit assessments; no paired inference
+8,Practical and general competencies,after,intermediate,7,45,45,table,"Word table 32 (zero-based); Table 2.28, p.163",true,Published marginal counts; non-equivalent entry/exit assessments; no paired inference
+8,Practical and general competencies,after,sufficient,20,45,45,table,"Word table 32 (zero-based); Table 2.28, p.163",true,Published marginal counts; non-equivalent entry/exit assessments; no paired inference
+8,Practical and general competencies,after,high,15,45,45,table,"Word table 32 (zero-based); Table 2.28, p.163",true,Published marginal counts; non-equivalent entry/exit assessments; no paired inference
+1,Physical foundations,before,initial,30,45,45,chart_cache,word/charts/chart1.xml; Fig. 2.20,true,Published marginal counts; non-equivalent entry/exit assessments; no paired inference
+1,Physical foundations,before,intermediate,15,45,45,chart_cache,word/charts/chart1.xml; Fig. 2.20,true,Published marginal counts; non-equivalent entry/exit assessments; no paired inference
+1,Physical foundations,before,sufficient,0,45,45,chart_cache,word/charts/chart1.xml; Fig. 2.20,true,Published marginal counts; non-equivalent entry/exit assessments; no paired inference
+1,Physical foundations,before,high,0,45,45,chart_cache,word/charts/chart1.xml; Fig. 2.20,true,Published marginal counts; non-equivalent entry/exit assessments; no paired inference
+1,Physical foundations,after,initial,6,45,45,chart_cache,word/charts/chart1.xml; Fig. 2.20,true,Published marginal counts; non-equivalent entry/exit assessments; no paired inference
+1,Physical foundations,after,intermediate,20,45,45,chart_cache,word/charts/chart1.xml; Fig. 2.20,true,Published marginal counts; non-equivalent entry/exit assessments; no paired inference
+1,Physical foundations,after,sufficient,16,45,45,chart_cache,word/charts/chart1.xml; Fig. 2.20,true,Published marginal counts; non-equivalent entry/exit assessments; no paired inference
+1,Physical foundations,after,high,3,45,45,chart_cache,word/charts/chart1.xml; Fig. 2.20,true,Published marginal counts; non-equivalent entry/exit assessments; no paired inference
+2,Mathematical foundations,before,initial,17,45,45,chart_cache,word/charts/chart2.xml; Fig. 2.21,true,Published marginal counts; non-equivalent entry/exit assessments; no paired inference
+2,Mathematical foundations,before,intermediate,28,45,45,chart_cache,word/charts/chart2.xml; Fig. 2.21,true,Published marginal counts; non-equivalent entry/exit assessments; no paired inference
+2,Mathematical foundations,before,sufficient,0,45,45,chart_cache,word/charts/chart2.xml; Fig. 2.21,true,Published marginal counts; non-equivalent entry/exit assessments; no paired inference
+2,Mathematical foundations,before,high,0,45,45,chart_cache,word/charts/chart2.xml; Fig. 2.21,true,Published marginal counts; non-equivalent entry/exit assessments; no paired inference
+2,Mathematical foundations,after,initial,4,45,45,chart_cache,word/charts/chart2.xml; Fig. 2.21,true,Published marginal counts; non-equivalent entry/exit assessments; no paired inference
+2,Mathematical foundations,after,intermediate,23,45,45,chart_cache,word/charts/chart2.xml; Fig. 2.21,true,Published marginal counts; non-equivalent entry/exit assessments; no paired inference
+2,Mathematical foundations,after,sufficient,15,45,45,chart_cache,word/charts/chart2.xml; Fig. 2.21,true,Published marginal counts; non-equivalent entry/exit assessments; no paired inference
+2,Mathematical foundations,after,high,3,45,45,chart_cache,word/charts/chart2.xml; Fig. 2.21,true,Published marginal counts; non-equivalent entry/exit assessments; no paired inference
+3,Enabling technologies,before,initial,40,45,64,chart_cache,word/charts/chart3.xml; Fig. 2.22,false,Published marginal counts; non-equivalent entry/exit assessments; no paired inference
+3,Enabling technologies,before,intermediate,17,45,64,chart_cache,word/charts/chart3.xml; Fig. 2.22,false,Published marginal counts; non-equivalent entry/exit assessments; no paired inference
+3,Enabling technologies,before,sufficient,6,45,64,chart_cache,word/charts/chart3.xml; Fig. 2.22,false,Published marginal counts; non-equivalent entry/exit assessments; no paired inference
+3,Enabling technologies,before,high,1,45,64,chart_cache,word/charts/chart3.xml; Fig. 2.22,false,Published marginal counts; non-equivalent entry/exit assessments; no paired inference
+3,Enabling technologies,after,initial,8,45,45,chart_cache,word/charts/chart3.xml; Fig. 2.22,false,Published marginal counts; non-equivalent entry/exit assessments; no paired inference
+3,Enabling technologies,after,intermediate,22,45,45,chart_cache,word/charts/chart3.xml; Fig. 2.22,false,Published marginal counts; non-equivalent entry/exit assessments; no paired inference
+3,Enabling technologies,after,sufficient,13,45,45,chart_cache,word/charts/chart3.xml; Fig. 2.22,false,Published marginal counts; non-equivalent entry/exit assessments; no paired inference
+3,Enabling technologies,after,high,2,45,45,chart_cache,word/charts/chart3.xml; Fig. 2.22,false,Published marginal counts; non-equivalent entry/exit assessments; no paired inference
+4,Computer and sensor hardware,before,initial,24,45,45,chart_cache,word/charts/chart4.xml; Fig. 2.23,false,Published marginal counts; non-equivalent entry/exit assessments; no paired inference
+4,Computer and sensor hardware,before,intermediate,19,45,45,chart_cache,word/charts/chart4.xml; Fig. 2.23,false,Published marginal counts; non-equivalent entry/exit assessments; no paired inference
+4,Computer and sensor hardware,before,sufficient,2,45,45,chart_cache,word/charts/chart4.xml; Fig. 2.23,false,Published marginal counts; non-equivalent entry/exit assessments; no paired inference
+4,Computer and sensor hardware,before,high,0,45,45,chart_cache,word/charts/chart4.xml; Fig. 2.23,false,Published marginal counts; non-equivalent entry/exit assessments; no paired inference
+4,Computer and sensor hardware,after,initial,5,45,45,chart_cache,word/charts/chart4.xml; Fig. 2.23,false,Published marginal counts; non-equivalent entry/exit assessments; no paired inference
+4,Computer and sensor hardware,after,intermediate,23,45,45,chart_cache,word/charts/chart4.xml; Fig. 2.23,false,Published marginal counts; non-equivalent entry/exit assessments; no paired inference
+4,Computer and sensor hardware,after,sufficient,15,45,45,chart_cache,word/charts/chart4.xml; Fig. 2.23,false,Published marginal counts; non-equivalent entry/exit assessments; no paired inference
+4,Computer and sensor hardware,after,high,2,45,45,chart_cache,word/charts/chart4.xml; Fig. 2.23,false,Published marginal counts; non-equivalent entry/exit assessments; no paired inference
+5,Computing and simulation,before,initial,41,45,45,chart_cache,word/charts/chart5.xml; Fig. 2.24,true,Published marginal counts; non-equivalent entry/exit assessments; no paired inference
+5,Computing and simulation,before,intermediate,4,45,45,chart_cache,word/charts/chart5.xml; Fig. 2.24,true,Published marginal counts; non-equivalent entry/exit assessments; no paired inference
+5,Computing and simulation,before,sufficient,0,45,45,chart_cache,word/charts/chart5.xml; Fig. 2.24,true,Published marginal counts; non-equivalent entry/exit assessments; no paired inference
+5,Computing and simulation,before,high,0,45,45,chart_cache,word/charts/chart5.xml; Fig. 2.24,true,Published marginal counts; non-equivalent entry/exit assessments; no paired inference
+5,Computing and simulation,after,initial,5,45,45,chart_cache,word/charts/chart5.xml; Fig. 2.24,true,Published marginal counts; non-equivalent entry/exit assessments; no paired inference
+5,Computing and simulation,after,intermediate,19,45,45,chart_cache,word/charts/chart5.xml; Fig. 2.24,true,Published marginal counts; non-equivalent entry/exit assessments; no paired inference
+5,Computing and simulation,after,sufficient,18,45,45,chart_cache,word/charts/chart5.xml; Fig. 2.24,true,Published marginal counts; non-equivalent entry/exit assessments; no paired inference
+5,Computing and simulation,after,high,3,45,45,chart_cache,word/charts/chart5.xml; Fig. 2.24,true,Published marginal counts; non-equivalent entry/exit assessments; no paired inference
+6,Sensing and metrology,before,initial,44,45,45,chart_cache,word/charts/chart6.xml; Fig. 2.25,true,Published marginal counts; non-equivalent entry/exit assessments; no paired inference
+6,Sensing and metrology,before,intermediate,1,45,45,chart_cache,word/charts/chart6.xml; Fig. 2.25,true,Published marginal counts; non-equivalent entry/exit assessments; no paired inference
+6,Sensing and metrology,before,sufficient,0,45,45,chart_cache,word/charts/chart6.xml; Fig. 2.25,true,Published marginal counts; non-equivalent entry/exit assessments; no paired inference
+6,Sensing and metrology,before,high,0,45,45,chart_cache,word/charts/chart6.xml; Fig. 2.25,true,Published marginal counts; non-equivalent entry/exit assessments; no paired inference
+6,Sensing and metrology,after,initial,10,45,45,chart_cache,word/charts/chart6.xml; Fig. 2.25,true,Published marginal counts; non-equivalent entry/exit assessments; no paired inference
+6,Sensing and metrology,after,intermediate,25,45,45,chart_cache,word/charts/chart6.xml; Fig. 2.25,true,Published marginal counts; non-equivalent entry/exit assessments; no paired inference
+6,Sensing and metrology,after,sufficient,9,45,45,chart_cache,word/charts/chart6.xml; Fig. 2.25,true,Published marginal counts; non-equivalent entry/exit assessments; no paired inference
+6,Sensing and metrology,after,high,1,45,45,chart_cache,word/charts/chart6.xml; Fig. 2.25,true,Published marginal counts; non-equivalent entry/exit assessments; no paired inference
+7,Quantum communication,before,initial,42,45,45,chart_cache,word/charts/chart7.xml; Fig. 2.26,true,Published marginal counts; non-equivalent entry/exit assessments; no paired inference
+7,Quantum communication,before,intermediate,3,45,45,chart_cache,word/charts/chart7.xml; Fig. 2.26,true,Published marginal counts; non-equivalent entry/exit assessments; no paired inference
+7,Quantum communication,before,sufficient,0,45,45,chart_cache,word/charts/chart7.xml; Fig. 2.26,true,Published marginal counts; non-equivalent entry/exit assessments; no paired inference
+7,Quantum communication,before,high,0,45,45,chart_cache,word/charts/chart7.xml; Fig. 2.26,true,Published marginal counts; non-equivalent entry/exit assessments; no paired inference
+7,Quantum communication,after,initial,4,45,45,chart_cache,word/charts/chart7.xml; Fig. 2.26,true,Published marginal counts; non-equivalent entry/exit assessments; no paired inference
+7,Quantum communication,after,intermediate,15,45,45,chart_cache,word/charts/chart7.xml; Fig. 2.26,true,Published marginal counts; non-equivalent entry/exit assessments; no paired inference
+7,Quantum communication,after,sufficient,23,45,45,chart_cache,word/charts/chart7.xml; Fig. 2.26,true,Published marginal counts; non-equivalent entry/exit assessments; no paired inference
+7,Quantum communication,after,high,3,45,45,chart_cache,word/charts/chart7.xml; Fig. 2.26,true,Published marginal counts; non-equivalent entry/exit assessments; no paired inference
+8,Practical and general competencies,before,initial,18,45,45,chart_cache,word/charts/chart8.xml; Fig. 2.27,true,Published marginal counts; non-equivalent entry/exit assessments; no paired inference
+8,Practical and general competencies,before,intermediate,27,45,45,chart_cache,word/charts/chart8.xml; Fig. 2.27,true,Published marginal counts; non-equivalent entry/exit assessments; no paired inference
+8,Practical and general competencies,before,sufficient,0,45,45,chart_cache,word/charts/chart8.xml; Fig. 2.27,true,Published marginal counts; non-equivalent entry/exit assessments; no paired inference
+8,Practical and general competencies,before,high,0,45,45,chart_cache,word/charts/chart8.xml; Fig. 2.27,true,Published marginal counts; non-equivalent entry/exit assessments; no paired inference
+8,Practical and general competencies,after,initial,3,45,45,chart_cache,word/charts/chart8.xml; Fig. 2.27,true,Published marginal counts; non-equivalent entry/exit assessments; no paired inference
+8,Practical and general competencies,after,intermediate,7,45,45,chart_cache,word/charts/chart8.xml; Fig. 2.27,true,Published marginal counts; non-equivalent entry/exit assessments; no paired inference
+8,Practical and general competencies,after,sufficient,20,45,45,chart_cache,word/charts/chart8.xml; Fig. 2.27,true,Published marginal counts; non-equivalent entry/exit assessments; no paired inference
+8,Practical and general competencies,after,high,15,45,45,chart_cache,word/charts/chart8.xml; Fig. 2.27,true,Published marginal counts; non-equivalent entry/exit assessments; no paired inference

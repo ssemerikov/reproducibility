@@ -1,0 +1,23 @@
+{
+  "thesis_docx_sha256": "8821e83b35737d59f3df40eab1522f42b8557e351968fb5d5bb83af90f4aaae6",
+  "thesis_pdf_sha256": "f2680845a6f3dce39abef06da09890bf973367a54e8f78a4567b2943cd6e71c9",
+  "pdf_pages": 269,
+  "embedded_workbooks": [],
+  "charts": 8,
+  "student_cohort": 45,
+  "teacher_survey_n": 26,
+  "curriculum_survey_n": 36,
+  "rating_items": 64,
+  "selected_components_reported": 41,
+  "discrepant_domains": [
+    3,
+    4
+  ],
+  "participant_level_data_recovered": false,
+  "scope": "Thesis DOCX/PDF extraction only; separately supplied curriculum responses are audited in workbook_assessment.json",
+  "curriculum_numeric_threshold_items": 30,
+  "favorable_rating_percent_range": [
+    63.8889,
+    88.8889
+  ]
+}

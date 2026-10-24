@@ -1,0 +1,14 @@
+coding,weighting,rule,range_fraction,min_score,max_score,cutoff,selected_n,selected_and_shaded_n,item_8_03_selected,item_6_03_selected,factorial
+published,self_rated_familiarity,range_fraction,0.35,92,156,114.4,41,36,True,True,True
+published,self_rated_familiarity,range_fraction,0.45,92,156,120.8,30,30,False,False,True
+published,self_rated_familiarity,range_fraction,0.55,92,156,127.2,20,20,False,False,True
+published,equal,range_fraction,0.35,53,94,67.35,40,33,True,True,True
+published,equal,range_fraction,0.45,53,94,71.45,29,27,True,True,True
+published,equal,range_fraction,0.55,53,94,75.55,17,17,False,False,True
+raw_label,self_rated_familiarity,range_fraction,0.35,92,139,108.45,52,39,True,True,True
+raw_label,self_rated_familiarity,range_fraction,0.45,92,139,113.15,44,36,True,True,True
+raw_label,self_rated_familiarity,range_fraction,0.55,92,139,117.85,34,32,True,True,True
+raw_label,self_rated_familiarity,fixed_published_cutoff,,92,139,120.8,28,28,False,False,False
+raw_label,equal,range_fraction,0.35,53,84,63.85,50,37,True,True,True
+raw_label,equal,range_fraction,0.45,53,84,66.95,45,35,True,True,True
+raw_label,equal,range_fraction,0.55,53,84,70.05,31,27,True,True,True

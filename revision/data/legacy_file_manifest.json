@@ -1,0 +1,1059 @@
+[
+  {
+    "collection": "legacy_scopus",
+    "file": "scopus-1.txt",
+    "sha256": "d919e43f86ed9ca5d91b6f35907c1ad2a11ef08db4183c4332a14f931c43c1f7",
+    "entries": 8,
+    "export_date": "09 July 2025"
+  },
+  {
+    "collection": "legacy_scopus",
+    "file": "scopus-10.txt",
+    "sha256": "423a247ffb31146010500a32573196a0b7cbc8fba141a7ec24ec62fbe5a3fe0d",
+    "entries": 11,
+    "export_date": "09 July 2025"
+  },
+  {
+    "collection": "legacy_scopus",
+    "file": "scopus-11.txt",
+    "sha256": "e3d15f23aabe2d1ba41693d653a186b61cdb010d0db289958c2f639ab6200e7b",
+    "entries": 11,
+    "export_date": "09 July 2025"
+  },
+  {
+    "collection": "legacy_scopus",
+    "file": "scopus-12.txt",
+    "sha256": "fbc521b55331759b8687b3ce748579577eb5620b95ac7ec3a39635feb6aca637",
+    "entries": 6,
+    "export_date": "09 July 2025"
+  },
+  {
+    "collection": "legacy_scopus",
+    "file": "scopus-13.txt",
+    "sha256": "c5f0c70a879291ad43c3f894986cdd1bebfc89f43c65272017c76adaf787b0ce",
+    "entries": 8,
+    "export_date": "09 July 2025"
+  },
+  {
+    "collection": "legacy_scopus",
+    "file": "scopus-14.txt",
+    "sha256": "9e563b8154911f051e66a33a7c9417e1f0640f66899c0142c56b7a47c129a879",
+    "entries": 7,
+    "export_date": "09 July 2025"
+  },
+  {
+    "collection": "legacy_scopus",
+    "file": "scopus-15.txt",
+    "sha256": "988609c07dd5dabf006de82a76ab74a8c29832955d71e8d73c5577cc1b9315bd",
+    "entries": 12,
+    "export_date": "09 July 2025"
+  },
+  {
+    "collection": "legacy_scopus",
+    "file": "scopus-16.txt",
+    "sha256": "62f81c12eda9311f101948968ba777dba02aca92323bff469ce8509dd4b5278c",
+    "entries": 10,
+    "export_date": "09 July 2025"
+  },
+  {
+    "collection": "legacy_scopus",
+    "file": "scopus-17.txt",
+    "sha256": "7a2d780c7e900a183e8e6cd87d35735df3e4bafa59ddd7c7ac8dbc1bd8d1aed9",
+    "entries": 12,
+    "export_date": "09 July 2025"
+  },
+  {
+    "collection": "legacy_scopus",
+    "file": "scopus-18.txt",
+    "sha256": "22c685f6059a24efacdb0368b379fbf78cefe344fa1999c750c59e196719e5ea",
+    "entries": 8,
+    "export_date": "09 July 2025"
+  },
+  {
+    "collection": "legacy_scopus",
+    "file": "scopus-19.txt",
+    "sha256": "f9fe41731301e628df9e0f717364c5d69a042c23d42388215cc8020c7bb3ecde",
+    "entries": 5,
+    "export_date": "09 July 2025"
+  },
+  {
+    "collection": "legacy_scopus",
+    "file": "scopus-2.txt",
+    "sha256": "98a29b6332622960f7322b9f54f220878038d78d8ba41208bfe814bd55b64951",
+    "entries": 8,
+    "export_date": "09 July 2025"
+  },
+  {
+    "collection": "legacy_scopus",
+    "file": "scopus-20.txt",
+    "sha256": "b4e4b65c716d75b54a1901bdf364968d29158a496886d02f5dea3cdd629af33f",
+    "entries": 9,
+    "export_date": "09 July 2025"
+  },
+  {
+    "collection": "legacy_scopus",
+    "file": "scopus-21.txt",
+    "sha256": "3870018704050de356d7aeee2f3d91a44dc81ea87ff36b3f535cd304887e3736",
+    "entries": 8,
+    "export_date": "09 July 2025"
+  },
+  {
+    "collection": "legacy_scopus",
+    "file": "scopus-22.txt",
+    "sha256": "8085e2943d9cd6834eb35590ce40d39cbfebcd9296dac17f0d969c707132759d",
+    "entries": 11,
+    "export_date": "09 July 2025"
+  },
+  {
+    "collection": "legacy_scopus",
+    "file": "scopus-23.txt",
+    "sha256": "2e0596420133b92b84e742bb2abf622774de4340f591731c0ab1d382e82a2a27",
+    "entries": 6,
+    "export_date": "09 July 2025"
+  },
+  {
+    "collection": "legacy_scopus",
+    "file": "scopus-24.txt",
+    "sha256": "f2a76657073da1c3502c24a69f35136378d2640f5c4f3ee70ac90cfe6dfd85ce",
+    "entries": 9,
+    "export_date": "09 July 2025"
+  },
+  {
+    "collection": "legacy_scopus",
+    "file": "scopus-25.txt",
+    "sha256": "2b0912223659844745b442b429abdb28b83fe3f375ddc5db9aa1938e9c8b96e8",
+    "entries": 3,
+    "export_date": "09 July 2025"
+  },
+  {
+    "collection": "legacy_scopus",
+    "file": "scopus-26.txt",
+    "sha256": "a827adaa8772135e4a7b9dbb07d73ae81f87c9e22c1b64296cb8f101eff1371b",
+    "entries": 9,
+    "export_date": "09 July 2025"
+  },
+  {
+    "collection": "legacy_scopus",
+    "file": "scopus-27.txt",
+    "sha256": "c5dc7e401b5a1c782587fab7ec0e2ac9fbc06d734afa601fe03126e6209102e4",
+    "entries": 7,
+    "export_date": "09 July 2025"
+  },
+  {
+    "collection": "legacy_scopus",
+    "file": "scopus-28.txt",
+    "sha256": "e858a0d60e49d288ce584b5bb6cfa70d04bf5309071203f78f46ce43fde40baf",
+    "entries": 7,
+    "export_date": "09 July 2025"
+  },
+  {
+    "collection": "legacy_scopus",
+    "file": "scopus-29.txt",
+    "sha256": "fb35f5e53aff526f1cb663c9737e4cbc8f53d8134f98b563dfe24a9aee6c0448",
+    "entries": 8,
+    "export_date": "09 July 2025"
+  },
+  {
+    "collection": "legacy_scopus",
+    "file": "scopus-3.txt",
+    "sha256": "446cd8939d45f25ddf385f6e6d7f5b5f6d2bb0cabe0cce95a641d4c5d10296e1",
+    "entries": 9,
+    "export_date": "09 July 2025"
+  },
+  {
+    "collection": "legacy_scopus",
+    "file": "scopus-30.txt",
+    "sha256": "e1c1bc3103b0291228a0782385d9129f6ad4e836141886f08d7a3744d4f217f8",
+    "entries": 6,
+    "export_date": "09 July 2025"
+  },
+  {
+    "collection": "legacy_scopus",
+    "file": "scopus-31.txt",
+    "sha256": "4da3fdeaa476a272d1ba510bacda383d6934388d8b6c50870713236342e48fdf",
+    "entries": 9,
+    "export_date": "09 July 2025"
+  },
+  {
+    "collection": "legacy_scopus",
+    "file": "scopus-32.txt",
+    "sha256": "72262c1658f309e8b120b05e5dad9f9c8f293b4cf52e4e34ecfa1feaa267a65e",
+    "entries": 14,
+    "export_date": "09 July 2025"
+  },
+  {
+    "collection": "legacy_scopus",
+    "file": "scopus-33.txt",
+    "sha256": "ca428e0a64dc3eebd989c61790ec0f96054b702b8bead48885c8b79b9416368c",
+    "entries": 13,
+    "export_date": "09 July 2025"
+  },
+  {
+    "collection": "legacy_scopus",
+    "file": "scopus-34.txt",
+    "sha256": "79650c4bc8a0d37df858cac12bfa32484fc2d27b5012564d40e473c4152da7e7",
+    "entries": 8,
+    "export_date": "09 July 2025"
+  },
+  {
+    "collection": "legacy_scopus",
+    "file": "scopus-35.txt",
+    "sha256": "ae7e80df3529482f7b1ee7b05b8d3c792f313eb416a75483f6068a17b38c8112",
+    "entries": 9,
+    "export_date": "09 July 2025"
+  },
+  {
+    "collection": "legacy_scopus",
+    "file": "scopus-36.txt",
+    "sha256": "13a20c20c6756f558ca340d66ff1bb4f841a239bdf45d3acef4b0fab5c244667",
+    "entries": 11,
+    "export_date": "09 July 2025"
+  },
+  {
+    "collection": "legacy_scopus",
+    "file": "scopus-37.txt",
+    "sha256": "c0032d3df26058d92d4c673d2894203ca9d96c5e045709b537e64300ec6057c9",
+    "entries": 5,
+    "export_date": "09 July 2025"
+  },
+  {
+    "collection": "legacy_scopus",
+    "file": "scopus-38.txt",
+    "sha256": "ed3aa5073d39e3f431788d81fd780bef6ad61fb2f447c743fcdb3acc1fa25c5e",
+    "entries": 15,
+    "export_date": "09 July 2025"
+  },
+  {
+    "collection": "legacy_scopus",
+    "file": "scopus-39.txt",
+    "sha256": "8058b1d32921aa3a25de9bb13971e682646ecd93a1bdeaa31314f4fa35269121",
+    "entries": 13,
+    "export_date": "09 July 2025"
+  },
+  {
+    "collection": "legacy_scopus",
+    "file": "scopus-4.txt",
+    "sha256": "dca1a0e88ef9e10dba853e1262bcb0a8db202e43219d4a085f666c4f061c6125",
+    "entries": 9,
+    "export_date": "09 July 2025"
+  },
+  {
+    "collection": "legacy_scopus",
+    "file": "scopus-40.txt",
+    "sha256": "491c80b44fece82941e169ed6e5d6c562cc5f4a52b2283cb8b8f1b65c7231485",
+    "entries": 14,
+    "export_date": "09 July 2025"
+  },
+  {
+    "collection": "legacy_scopus",
+    "file": "scopus-41.txt",
+    "sha256": "2b84b34434c9672ebe5cf058745f2a949e791070f91d4d6ed9daadfd6c136279",
+    "entries": 10,
+    "export_date": "09 July 2025"
+  },
+  {
+    "collection": "legacy_scopus",
+    "file": "scopus-42.txt",
+    "sha256": "136a7022e7533bde3521d82402d111807a20313947844c416a4ce6ab83ab7dd0",
+    "entries": 9,
+    "export_date": "09 July 2025"
+  },
+  {
+    "collection": "legacy_scopus",
+    "file": "scopus-43.txt",
+    "sha256": "5bab2bec5eada515172c67d5ad277df04f04e11de0ac629a6b5968965662b326",
+    "entries": 8,
+    "export_date": "09 July 2025"
+  },
+  {
+    "collection": "legacy_scopus",
+    "file": "scopus-44.txt",
+    "sha256": "87eca2d3065cfade259f985f0b4c63086815bd834e0012b306698d8205a7302a",
+    "entries": 7,
+    "export_date": "09 July 2025"
+  },
+  {
+    "collection": "legacy_scopus",
+    "file": "scopus-45.txt",
+    "sha256": "9b330bc5553b9db690ee1365cdc1e96b5a0cfcf647ecf5fdab1d19f760cbec83",
+    "entries": 6,
+    "export_date": "09 July 2025"
+  },
+  {
+    "collection": "legacy_scopus",
+    "file": "scopus-46.txt",
+    "sha256": "1ffe1f5fec1c03cc786c7152fe66543a763a5458f669074502826f83d51650ef",
+    "entries": 5,
+    "export_date": "09 July 2025"
+  },
+  {
+    "collection": "legacy_scopus",
+    "file": "scopus-47.txt",
+    "sha256": "f4f48b94d05201ef40391097b8b9e2d0572db2261fd0382ca029668dac5dd6ab",
+    "entries": 7,
+    "export_date": "09 July 2025"
+  },
+  {
+    "collection": "legacy_scopus",
+    "file": "scopus-48.txt",
+    "sha256": "7d4c5c83e3ec5f3c6c3f60c9fbe1bca8031277bd1742178c050ec07310b72bb3",
+    "entries": 11,
+    "export_date": "09 July 2025"
+  },
+  {
+    "collection": "legacy_scopus",
+    "file": "scopus-49.txt",
+    "sha256": "5214996f1aa02b1010876d3da1cc8b445fd04a2d4eefe1a30be611d5e7b42489",
+    "entries": 15,
+    "export_date": "09 July 2025"
+  },
+  {
+    "collection": "legacy_scopus",
+    "file": "scopus-5.txt",
+    "sha256": "cec10feb7353d13ae4c7b391aaf5d0862d3cae198361ae3f25c387b56ca58f1e",
+    "entries": 13,
+    "export_date": "09 July 2025"
+  },
+  {
+    "collection": "legacy_scopus",
+    "file": "scopus-50.txt",
+    "sha256": "1837e3a60e84ca39e8c55f7a3a43d7618ccaa005eee81e7c667395cb533e6244",
+    "entries": 5,
+    "export_date": "09 July 2025"
+  },
+  {
+    "collection": "legacy_scopus",
+    "file": "scopus-51.txt",
+    "sha256": "44d57acf6404e1280194899ec38d206c046ca323187f4768fd405dea79951555",
+    "entries": 9,
+    "export_date": "09 July 2025"
+  },
+  {
+    "collection": "legacy_scopus",
+    "file": "scopus-52.txt",
+    "sha256": "c3fbb825002cf6def99e749162bd96d97638daa443d884d9709f59330cd758c5",
+    "entries": 11,
+    "export_date": "09 July 2025"
+  },
+  {
+    "collection": "legacy_scopus",
+    "file": "scopus-53.txt",
+    "sha256": "73e1405cba6bce9a33f52bda80e28a197a8c77b6b7f95d25a7ea6ef9a7ec4919",
+    "entries": 11,
+    "export_date": "09 July 2025"
+  },
+  {
+    "collection": "legacy_scopus",
+    "file": "scopus-54.txt",
+    "sha256": "defb14404013393dca70556d589618b81af6fffd075e6c28e2836ad15d49e343",
+    "entries": 8,
+    "export_date": "09 July 2025"
+  },
+  {
+    "collection": "legacy_scopus",
+    "file": "scopus-55.txt",
+    "sha256": "9bf79376415a348aa1af6660565b25530b64c4b7bd03aac178a96980c6c6dcba",
+    "entries": 14,
+    "export_date": "09 July 2025"
+  },
+  {
+    "collection": "legacy_scopus",
+    "file": "scopus-56.txt",
+    "sha256": "f2bd505309d88f8594553a628296f4aa7b7b1436870e49cb33c870fe1bae6b5c",
+    "entries": 8,
+    "export_date": "09 July 2025"
+  },
+  {
+    "collection": "legacy_scopus",
+    "file": "scopus-57.txt",
+    "sha256": "b7a9f7d3238b36537e00475ca393180c035067807b143ca8f163ce2f17bcbf2c",
+    "entries": 12,
+    "export_date": "09 July 2025"
+  },
+  {
+    "collection": "legacy_scopus",
+    "file": "scopus-58.txt",
+    "sha256": "d3db72167e36a680d5da78379e8dd403874aaa3f84f4fd63c720e03c6c1943c2",
+    "entries": 4,
+    "export_date": "09 July 2025"
+  },
+  {
+    "collection": "legacy_scopus",
+    "file": "scopus-59.txt",
+    "sha256": "824b843e1f9759ccf5f9d4b947f3699714aecdc352440c3199d3d9bc3236c85c",
+    "entries": 10,
+    "export_date": "09 July 2025"
+  },
+  {
+    "collection": "legacy_scopus",
+    "file": "scopus-6.txt",
+    "sha256": "a30fa736d2a2a967a94ac45cbd5dc43947fce063f7f9d5fd02d3a8352037eb71",
+    "entries": 6,
+    "export_date": "09 July 2025"
+  },
+  {
+    "collection": "legacy_scopus",
+    "file": "scopus-60.txt",
+    "sha256": "5c6acbbe5cd99cfdc69bd7b849bc5446bd2ccb8cf5ccd8919ca14cec512db7da",
+    "entries": 13,
+    "export_date": "09 July 2025"
+  },
+  {
+    "collection": "legacy_scopus",
+    "file": "scopus-61.txt",
+    "sha256": "187faf0a4ea8634511dbae1e2e7c79a9c5ae554b0f3fab7e90688190352e2be1",
+    "entries": 13,
+    "export_date": "09 July 2025"
+  },
+  {
+    "collection": "legacy_scopus",
+    "file": "scopus-62.txt",
+    "sha256": "618458707c2ebadaaa99f514ea38b213b2eb5bc2df27caa7af354296b694f85d",
+    "entries": 9,
+    "export_date": "09 July 2025"
+  },
+  {
+    "collection": "legacy_scopus",
+    "file": "scopus-63.txt",
+    "sha256": "ebd53b76fa2c41c98579111091d9686f9e78d264eee387e4018e0f07e0749d9c",
+    "entries": 10,
+    "export_date": "09 July 2025"
+  },
+  {
+    "collection": "legacy_scopus",
+    "file": "scopus-7.txt",
+    "sha256": "d740b2977f7764448e78d1ecece12e06c60d7f956df7e3bd65dc25c5b477bfe1",
+    "entries": 11,
+    "export_date": "09 July 2025"
+  },
+  {
+    "collection": "legacy_scopus",
+    "file": "scopus-8.txt",
+    "sha256": "ea1bf44e28ee6f57b18cdd8cf396b2f522b34581d1b89b05f1b39c12b443d5c6",
+    "entries": 12,
+    "export_date": "09 July 2025"
+  },
+  {
+    "collection": "legacy_scopus",
+    "file": "scopus-9.txt",
+    "sha256": "ffc7a3c97b2cfec6a1fd726444fa44bd83141b08182617f498e164d8f0c05fcc",
+    "entries": 11,
+    "export_date": "09 July 2025"
+  },
+  {
+    "collection": "legacy_scopus",
+    "file": "scopus.txt",
+    "sha256": "699376a0a94b274f231bc939ceb58dd7f5b91e44d53dd2826ea13a1f1c933800",
+    "entries": 9,
+    "export_date": "09 July 2025"
+  },
+  {
+    "collection": "legacy_wos",
+    "file": "savedrecs-1.bib",
+    "sha256": "377a16f6e2c6e01a923a1f66b3d19357a2935db4f1fdd4f825a93d0755286bdd",
+    "entries": 102,
+    "export_date": "not_recorded_in_file"
+  },
+  {
+    "collection": "legacy_wos",
+    "file": "savedrecs-10.bib",
+    "sha256": "838ad9b33591752a2834d7efae9f8beb18520ce390b8e5feba3af2c53418d89b",
+    "entries": 2,
+    "export_date": "not_recorded_in_file"
+  },
+  {
+    "collection": "legacy_wos",
+    "file": "savedrecs-11.bib",
+    "sha256": "77c603d2e6d735d6220011a89563d654c31f9c2a7faaec7b8f4d08bdf31266c4",
+    "entries": 100,
+    "export_date": "not_recorded_in_file"
+  },
+  {
+    "collection": "legacy_wos",
+    "file": "savedrecs-12.bib",
+    "sha256": "f60898244665b7ca80b910dad04cb48a49257c65a9e42f9acaf64c09bfcf4f77",
+    "entries": 100,
+    "export_date": "not_recorded_in_file"
+  },
+  {
+    "collection": "legacy_wos",
+    "file": "savedrecs-13.bib",
+    "sha256": "1e77c52f846756cb59a7e0bf68597432a9fc81591749e828b2f25eb997a305e6",
+    "entries": 127,
+    "export_date": "not_recorded_in_file"
+  },
+  {
+    "collection": "legacy_wos",
+    "file": "savedrecs-14.bib",
+    "sha256": "5f5cc74e18741abd5b174810da1698e640fcca26254dfebea3a5d7904962c8f8",
+    "entries": 100,
+    "export_date": "not_recorded_in_file"
+  },
+  {
+    "collection": "legacy_wos",
+    "file": "savedrecs-15.bib",
+    "sha256": "01fff6c3ba892fbe9b22138c1ecff44b2592d7b0a05ec2f7122231d6e1e123b4",
+    "entries": 256,
+    "export_date": "not_recorded_in_file"
+  },
+  {
+    "collection": "legacy_wos",
+    "file": "savedrecs-16.bib",
+    "sha256": "e8f7d59527809a25e09a35db852996424845185e17c0585a9092b2a4172560f0",
+    "entries": 69,
+    "export_date": "not_recorded_in_file"
+  },
+  {
+    "collection": "legacy_wos",
+    "file": "savedrecs-17.bib",
+    "sha256": "2c21c265241af2fe18692d9ed065229c18a17b45a1abeba0e4cae16e469ed80d",
+    "entries": 5,
+    "export_date": "not_recorded_in_file"
+  },
+  {
+    "collection": "legacy_wos",
+    "file": "savedrecs-18.bib",
+    "sha256": "a0d4d45c63fc995e8be06adefe4dd771fa95d88c3b1ed95606e2af46764fb443",
+    "entries": 267,
+    "export_date": "not_recorded_in_file"
+  },
+  {
+    "collection": "legacy_wos",
+    "file": "savedrecs-19.bib",
+    "sha256": "7e686e26fd584d464e4b1ac85ae7682bba57cdeb2db6a3bf02b2f95038aa9174",
+    "entries": 105,
+    "export_date": "not_recorded_in_file"
+  },
+  {
+    "collection": "legacy_wos",
+    "file": "savedrecs-2.bib",
+    "sha256": "72c825937bc7c93cc13d533cd16a55db54864746665fcb26f78cdfb398d1c893",
+    "entries": 101,
+    "export_date": "not_recorded_in_file"
+  },
+  {
+    "collection": "legacy_wos",
+    "file": "savedrecs-20.bib",
+    "sha256": "4887ebc5687b1c2d0b64a9405ff5f4318ff451b21d45dda0b7eb4c65541b3032",
+    "entries": 11,
+    "export_date": "not_recorded_in_file"
+  },
+  {
+    "collection": "legacy_wos",
+    "file": "savedrecs-21.bib",
+    "sha256": "2641f26b18216165047594b7af1b26e30e2d89bdaf609f68763874ec776dee94",
+    "entries": 89,
+    "export_date": "not_recorded_in_file"
+  },
+  {
+    "collection": "legacy_wos",
+    "file": "savedrecs-22.bib",
+    "sha256": "904acf047f6b47c7c14035406df9ed0125fb65bb643258a60f6e032d3f95700a",
+    "entries": 500,
+    "export_date": "not_recorded_in_file"
+  },
+  {
+    "collection": "legacy_wos",
+    "file": "savedrecs-23.bib",
+    "sha256": "96551ddad79a2f83a3e8ab1aa0388a2525d0f2099f70aa7848b4d61b56c9167c",
+    "entries": 101,
+    "export_date": "not_recorded_in_file"
+  },
+  {
+    "collection": "legacy_wos",
+    "file": "savedrecs-24.bib",
+    "sha256": "636894f246a797ca1c8bd9c35417a2e0d777d78831e10158cbacd01c8a31e0c1",
+    "entries": 6,
+    "export_date": "not_recorded_in_file"
+  },
+  {
+    "collection": "legacy_wos",
+    "file": "savedrecs-25.bib",
+    "sha256": "bc1f9f225bac4a4ed66c0588685b571ea2b69bf732283cb60355758ca9ec256a",
+    "entries": 231,
+    "export_date": "not_recorded_in_file"
+  },
+  {
+    "collection": "legacy_wos",
+    "file": "savedrecs-26.bib",
+    "sha256": "636894f246a797ca1c8bd9c35417a2e0d777d78831e10158cbacd01c8a31e0c1",
+    "entries": 6,
+    "export_date": "not_recorded_in_file"
+  },
+  {
+    "collection": "legacy_wos",
+    "file": "savedrecs-27.bib",
+    "sha256": "d126fecc29aa2728cef4e9ab7bcab83499aa11bf3009d83085167214e824112d",
+    "entries": 102,
+    "export_date": "not_recorded_in_file"
+  },
+  {
+    "collection": "legacy_wos",
+    "file": "savedrecs-28.bib",
+    "sha256": "eca4b80cd9cff6b0365d7c313d391240fe094cc687bf0e1e966402fb63918e98",
+    "entries": 100,
+    "export_date": "not_recorded_in_file"
+  },
+  {
+    "collection": "legacy_wos",
+    "file": "savedrecs-29.bib",
+    "sha256": "09a2dad61a87d337f55528219bfbb32cb57505ee34993f4f5e90fbc32ff366bb",
+    "entries": 204,
+    "export_date": "not_recorded_in_file"
+  },
+  {
+    "collection": "legacy_wos",
+    "file": "savedrecs-3.bib",
+    "sha256": "0230b91404c990762d4d32afa79d55224488e7356ec6c339dc3388f15e4d7685",
+    "entries": 110,
+    "export_date": "not_recorded_in_file"
+  },
+  {
+    "collection": "legacy_wos",
+    "file": "savedrecs-30.bib",
+    "sha256": "636894f246a797ca1c8bd9c35417a2e0d777d78831e10158cbacd01c8a31e0c1",
+    "entries": 6,
+    "export_date": "not_recorded_in_file"
+  },
+  {
+    "collection": "legacy_wos",
+    "file": "savedrecs-31.bib",
+    "sha256": "f10808646a41d7a27baebbb30f3552ddc2bd57e570cf7f3fa290da0d1a40237f",
+    "entries": 100,
+    "export_date": "not_recorded_in_file"
+  },
+  {
+    "collection": "legacy_wos",
+    "file": "savedrecs-32.bib",
+    "sha256": "ad0b5b8c78f53830bbd9de80fc52cafbfe5a10f47ba4e9aeed2192210296b314",
+    "entries": 20,
+    "export_date": "not_recorded_in_file"
+  },
+  {
+    "collection": "legacy_wos",
+    "file": "savedrecs-33.bib",
+    "sha256": "3b47e3d57b9af4a9c03c9f1debfe2b6021ab3a28e302268631617e1eccccd7f5",
+    "entries": 100,
+    "export_date": "not_recorded_in_file"
+  },
+  {
+    "collection": "legacy_wos",
+    "file": "savedrecs-34.bib",
+    "sha256": "1cc33ac4778f3c88c009f5d64eaa507634e3e87408da30c0ca90a1dbcebfef4a",
+    "entries": 102,
+    "export_date": "not_recorded_in_file"
+  },
+  {
+    "collection": "legacy_wos",
+    "file": "savedrecs-35.bib",
+    "sha256": "79574db6688b3472739d4f835209d5550aa8ee484fad634dea980eecdcee0fba",
+    "entries": 94,
+    "export_date": "not_recorded_in_file"
+  },
+  {
+    "collection": "legacy_wos",
+    "file": "savedrecs-36.bib",
+    "sha256": "3361d349e6a11680351478e9d71c59c216a1f894a88ae10e03c96462b5cd4843",
+    "entries": 3,
+    "export_date": "not_recorded_in_file"
+  },
+  {
+    "collection": "legacy_wos",
+    "file": "savedrecs-37.bib",
+    "sha256": "59cc92a19940331c316e667f6d030ff2e704c08c29980e582a8cb4a3989db66b",
+    "entries": 104,
+    "export_date": "not_recorded_in_file"
+  },
+  {
+    "collection": "legacy_wos",
+    "file": "savedrecs-38.bib",
+    "sha256": "3e9db6474fe652933541f6f84b0f1ecb52cedd33a4e15b9304ccdf8390a6c269",
+    "entries": 101,
+    "export_date": "not_recorded_in_file"
+  },
+  {
+    "collection": "legacy_wos",
+    "file": "savedrecs-39.bib",
+    "sha256": "34923d44cc9fcc3bd97b0e011fee71186dec3a8d8e451fd1ca649254939746fd",
+    "entries": 101,
+    "export_date": "not_recorded_in_file"
+  },
+  {
+    "collection": "legacy_wos",
+    "file": "savedrecs-4.bib",
+    "sha256": "77ee8190d6a3ce86e048d5ae25b3edcbb27d68c39054d9717f7ae0fe31086d1f",
+    "entries": 115,
+    "export_date": "not_recorded_in_file"
+  },
+  {
+    "collection": "legacy_wos",
+    "file": "savedrecs-40.bib",
+    "sha256": "62ec624298c70348645a83d30532febbf0de24fea2378da7aeffff2f09dcd3ac",
+    "entries": 7,
+    "export_date": "not_recorded_in_file"
+  },
+  {
+    "collection": "legacy_wos",
+    "file": "savedrecs-41.bib",
+    "sha256": "38577e193ff96ee8da3c9147e175087e3bd1fdfe6273a8b7976a1d43305f26d4",
+    "entries": 100,
+    "export_date": "not_recorded_in_file"
+  },
+  {
+    "collection": "legacy_wos",
+    "file": "savedrecs-42.bib",
+    "sha256": "0248895dff03f0d1b136918c075aedafd809e874c318d1628c090a422efc7b7d",
+    "entries": 100,
+    "export_date": "not_recorded_in_file"
+  },
+  {
+    "collection": "legacy_wos",
+    "file": "savedrecs-43.bib",
+    "sha256": "af5c810aaa1adf09983948135d53b0c5b99b5195f626aebd72cff63c69c62f9f",
+    "entries": 125,
+    "export_date": "not_recorded_in_file"
+  },
+  {
+    "collection": "legacy_wos",
+    "file": "savedrecs-44.bib",
+    "sha256": "3b8444acc4e3e502ab6595ef891f793c0ea7549133cfe0d7a803dfdaf44d1472",
+    "entries": 8,
+    "export_date": "not_recorded_in_file"
+  },
+  {
+    "collection": "legacy_wos",
+    "file": "savedrecs-45.bib",
+    "sha256": "11be4d1edb10ece9a87cf8087b9e9fd7d75460aa80996b249a5f0aca0291ed35",
+    "entries": 100,
+    "export_date": "not_recorded_in_file"
+  },
+  {
+    "collection": "legacy_wos",
+    "file": "savedrecs-46.bib",
+    "sha256": "d3934e8ebccca3fb2bcaf07d914cb757f068682bfdb86c81364d3d82200f793f",
+    "entries": 7,
+    "export_date": "not_recorded_in_file"
+  },
+  {
+    "collection": "legacy_wos",
+    "file": "savedrecs-47.bib",
+    "sha256": "7ab317186ceff09488e6009e1e46c70bcdf9b3b5712f253111230a313b536408",
+    "entries": 11,
+    "export_date": "not_recorded_in_file"
+  },
+  {
+    "collection": "legacy_wos",
+    "file": "savedrecs-48.bib",
+    "sha256": "f458783b2e389fedcf26d200bcdea5bd1b7f62e33fc6207dde2903c2fe919ee8",
+    "entries": 98,
+    "export_date": "not_recorded_in_file"
+  },
+  {
+    "collection": "legacy_wos",
+    "file": "savedrecs-49.bib",
+    "sha256": "c5ee490e4b2542d5e940c9e20ccb685bebf46dfde6a08ba804ecdfd9cd9ad147",
+    "entries": 103,
+    "export_date": "not_recorded_in_file"
+  },
+  {
+    "collection": "legacy_wos",
+    "file": "savedrecs-5.bib",
+    "sha256": "e7a7ce1c294e92adb3b0487d5ebbb8c4dd8eccc142f11c4e78982d665141e835",
+    "entries": 108,
+    "export_date": "not_recorded_in_file"
+  },
+  {
+    "collection": "legacy_wos",
+    "file": "savedrecs-50.bib",
+    "sha256": "52bd66499ac03cb184d2f243da54974d37836dd15bfce4bfbbaf38504c2a2895",
+    "entries": 69,
+    "export_date": "not_recorded_in_file"
+  },
+  {
+    "collection": "legacy_wos",
+    "file": "savedrecs-51.bib",
+    "sha256": "2e3f58b47e62cd8222fc45236e2f63c57a5e6c0c4f756ce36af052c334d03053",
+    "entries": 103,
+    "export_date": "not_recorded_in_file"
+  },
+  {
+    "collection": "legacy_wos",
+    "file": "savedrecs-52.bib",
+    "sha256": "cbebc3678d28c0d1cee43c73a6ebfcd70833380e0d9afb75d25af96a8cb2d703",
+    "entries": 106,
+    "export_date": "not_recorded_in_file"
+  },
+  {
+    "collection": "legacy_wos",
+    "file": "savedrecs-53.bib",
+    "sha256": "bed40884db0a2e280ec42272779edf270a3aa2075c915493d9f5d799bfcbcf56",
+    "entries": 75,
+    "export_date": "not_recorded_in_file"
+  },
+  {
+    "collection": "legacy_wos",
+    "file": "savedrecs-54.bib",
+    "sha256": "3caf4355f8514c5003f8520eb6cc23db4b9230a617e44b5af7fcb21e5f196650",
+    "entries": 81,
+    "export_date": "not_recorded_in_file"
+  },
+  {
+    "collection": "legacy_wos",
+    "file": "savedrecs-55.bib",
+    "sha256": "ae5a6f315d15aabc15750f95b4368977c4c60416b27591623503f0ae1e2baade",
+    "entries": 109,
+    "export_date": "not_recorded_in_file"
+  },
+  {
+    "collection": "legacy_wos",
+    "file": "savedrecs-56.bib",
+    "sha256": "95e23611fd1b16ac1198b3fb9c3074b0f2cc4530919d336194bee14aeee6e0e5",
+    "entries": 500,
+    "export_date": "not_recorded_in_file"
+  },
+  {
+    "collection": "legacy_wos",
+    "file": "savedrecs-57.bib",
+    "sha256": "efe60369b4f3b1a75c6aa24ec932c7bf78c2f7eb2f522af6c084b1386e37e7c8",
+    "entries": 15,
+    "export_date": "not_recorded_in_file"
+  },
+  {
+    "collection": "legacy_wos",
+    "file": "savedrecs-58.bib",
+    "sha256": "e93fe29432c042311703bb7d821c125d5d946dfc28467d5abc49b55022f8fa79",
+    "entries": 7,
+    "export_date": "not_recorded_in_file"
+  },
+  {
+    "collection": "legacy_wos",
+    "file": "savedrecs-59.bib",
+    "sha256": "50877caee390d9ecfa3e01cbbb0004a33bcb14268dc0147d62a01c1f3c8c26e8",
+    "entries": 278,
+    "export_date": "not_recorded_in_file"
+  },
+  {
+    "collection": "legacy_wos",
+    "file": "savedrecs-6.bib",
+    "sha256": "ae595e0e3f9e31ac8294b3aa66b096a87e22c3715a7cd409984ab8f943256da3",
+    "entries": 115,
+    "export_date": "not_recorded_in_file"
+  },
+  {
+    "collection": "legacy_wos",
+    "file": "savedrecs-60.bib",
+    "sha256": "acf2a2a419afc586569a1f172d4112570d7d81791282184ead236cad7254e9e3",
+    "entries": 100,
+    "export_date": "not_recorded_in_file"
+  },
+  {
+    "collection": "legacy_wos",
+    "file": "savedrecs-61.bib",
+    "sha256": "1ac5b135114bf3fe5999b46e25e3f3c9f5562e83689ec27fd5ee78c4dae619f5",
+    "entries": 101,
+    "export_date": "not_recorded_in_file"
+  },
+  {
+    "collection": "legacy_wos",
+    "file": "savedrecs-62.bib",
+    "sha256": "6e9156aae6e3f959df3a7ad5c7a8fd17f584f0fe2566b12c6a7c3f2921f44ac8",
+    "entries": 100,
+    "export_date": "not_recorded_in_file"
+  },
+  {
+    "collection": "legacy_wos",
+    "file": "savedrecs-63.bib",
+    "sha256": "cbcc3d8c601a602dd2096fc9bf6fb42035befd88503844577851ca9e01d5fdc3",
+    "entries": 100,
+    "export_date": "not_recorded_in_file"
+  },
+  {
+    "collection": "legacy_wos",
+    "file": "savedrecs-64.bib",
+    "sha256": "5c8f47f8162fbf016e96a82fc02e805c074043b2506e2c49e1aeca278afcb9b6",
+    "entries": 122,
+    "export_date": "not_recorded_in_file"
+  },
+  {
+    "collection": "legacy_wos",
+    "file": "savedrecs-65.bib",
+    "sha256": "00ce11ecc112095c17d1e0df4cf5d3513f3682bde6bc17cb98164270da5d214a",
+    "entries": 98,
+    "export_date": "not_recorded_in_file"
+  },
+  {
+    "collection": "legacy_wos",
+    "file": "savedrecs-66.bib",
+    "sha256": "4d613793a6584daf159e21001b928765ef364e0e2ce5377282058cd3608cfa54",
+    "entries": 100,
+    "export_date": "not_recorded_in_file"
+  },
+  {
+    "collection": "legacy_wos",
+    "file": "savedrecs-67.bib",
+    "sha256": "bf6da06e677931826339a69f221047efbd97316446c331ddae3829ae27510e30",
+    "entries": 100,
+    "export_date": "not_recorded_in_file"
+  },
+  {
+    "collection": "legacy_wos",
+    "file": "savedrecs-68.bib",
+    "sha256": "eb178c9e13ceabb45ca9793aced27e3e7d8499d4899561343be342eac2004fa8",
+    "entries": 105,
+    "export_date": "not_recorded_in_file"
+  },
+  {
+    "collection": "legacy_wos",
+    "file": "savedrecs-69.bib",
+    "sha256": "636894f246a797ca1c8bd9c35417a2e0d777d78831e10158cbacd01c8a31e0c1",
+    "entries": 6,
+    "export_date": "not_recorded_in_file"
+  },
+  {
+    "collection": "legacy_wos",
+    "file": "savedrecs-7.bib",
+    "sha256": "2baeef75ac0be3150c7a9c858b9493a19c8e0eeb879f7c6bad88961b778a7556",
+    "entries": 106,
+    "export_date": "not_recorded_in_file"
+  },
+  {
+    "collection": "legacy_wos",
+    "file": "savedrecs-8.bib",
+    "sha256": "e98f714f71e856104c1ba94a1922eec3fdaab5c28bc77656eefc2164db0a37a3",
+    "entries": 100,
+    "export_date": "not_recorded_in_file"
+  },
+  {
+    "collection": "legacy_wos",
+    "file": "savedrecs-9.bib",
+    "sha256": "a0868b15aec521f3b1bc1cb5414340d689ba00052b97f86ad2c591696116f47c",
+    "entries": 100,
+    "export_date": "not_recorded_in_file"
+  },
+  {
+    "collection": "legacy_wos",
+    "file": "savedrecs.bib",
+    "sha256": "9a64a1a3cc5ee23bba98e2e2b181259ec57ea9675439d1e7c917f4d476308385",
+    "entries": 82,
+    "export_date": "not_recorded_in_file"
+  },
+  {
+    "collection": "related_paper_scopus",
+    "file": "scopus-28.txt",
+    "sha256": "26dc13a087687dd48813165d6f4274ea31e8f9b84a18b6d7e61f3b2a5d0a0232",
+    "entries": 73,
+    "export_date": "23 November 2025"
+  },
+  {
+    "collection": "related_paper_scopus",
+    "file": "scopus-29.txt",
+    "sha256": "2b5d1ee6724f12397dd757c8847c77b7895e9c2f48bf6916fa035ac28b6da606",
+    "entries": 52,
+    "export_date": "23 November 2025"
+  },
+  {
+    "collection": "related_paper_scopus",
+    "file": "scopus-30.txt",
+    "sha256": "04463161159dbf13f5263c02f6f109f3ce713a9aa97e887ce00cccbf58592eb0",
+    "entries": 66,
+    "export_date": "23 November 2025"
+  },
+  {
+    "collection": "related_paper_scopus",
+    "file": "scopus-31.txt",
+    "sha256": "2e3db38729bd09b922ed97646a684d12a62c0d6aab8164756280859a043c114d",
+    "entries": 96,
+    "export_date": "23 November 2025"
+  },
+  {
+    "collection": "related_paper_scopus",
+    "file": "scopus-32.txt",
+    "sha256": "252e17bc9837701eef4a9cb9a344d1ef6a9f5843c3c0d159c9674e5bb7c1d409",
+    "entries": 62,
+    "export_date": "23 November 2025"
+  },
+  {
+    "collection": "related_paper_scopus",
+    "file": "scopus-33.txt",
+    "sha256": "98efa1ef83952fc1a8ea67c2515d42c3914c868fcdafb00a6796f19a577f21aa",
+    "entries": 79,
+    "export_date": "23 November 2025"
+  },
+  {
+    "collection": "related_paper_scopus",
+    "file": "scopus-34.txt",
+    "sha256": "b5c60b95b233a28fef3eb6a9ad5f6fad0775dd5eb1427a62d498a2d0b39bf4be",
+    "entries": 56,
+    "export_date": "23 November 2025"
+  },
+  {
+    "collection": "related_paper_scopus",
+    "file": "scopus-35.txt",
+    "sha256": "c867bd9d2cc96a7771f382a7ee87b4dbb7c1af13b485ad437326f4fcb929ba22",
+    "entries": 116,
+    "export_date": "23 November 2025"
+  },
+  {
+    "collection": "related_paper_scopus",
+    "file": "scopus-36.txt",
+    "sha256": "a888888ff930c911b849be34f2173f795ef4c4dc1f4d2073b91310c1ad2f82fd",
+    "entries": 76,
+    "export_date": "23 November 2025"
+  },
+  {
+    "collection": "related_paper_scopus",
+    "file": "scopus-37.txt",
+    "sha256": "a70682c623e0b09ddbf0bea7060689e40768802abdefdd4a146334c50f1ff4d2",
+    "entries": 56,
+    "export_date": "23 November 2025"
+  },
+  {
+    "collection": "related_paper_scopus",
+    "file": "scopus-38.txt",
+    "sha256": "858a3dbf08c67f3141c889d907f818503111bfa069ae6ca19bbf3a56e23ebdc5",
+    "entries": 70,
+    "export_date": "23 November 2025"
+  },
+  {
+    "collection": "related_paper_scopus",
+    "file": "scopus-39.txt",
+    "sha256": "b09f1f99d8f61d214cc9af977a7a13aacb5d320b23af9713c38589cb470afb71",
+    "entries": 79,
+    "export_date": "23 November 2025"
+  },
+  {
+    "collection": "related_paper_scopus",
+    "file": "scopus-40.txt",
+    "sha256": "be2ae5fa8e7d4c4bd0a6f891552c1fa5511e5514492fd6f7f66798a1e27c5039",
+    "entries": 50,
+    "export_date": "23 November 2025"
+  },
+  {
+    "collection": "related_paper_scopus",
+    "file": "scopus-41.txt",
+    "sha256": "20f6f995d80f24e381acbf745d0ce8fcd40b2f6742979362a62123bcafc97a43",
+    "entries": 89,
+    "export_date": "23 November 2025"
+  },
+  {
+    "collection": "related_paper_scopus",
+    "file": "scopus-42.txt",
+    "sha256": "ec60711ee6858902467d4d18d9df18533b4729a60e50ee69d398a2b239a767ba",
+    "entries": 96,
+    "export_date": "23 November 2025"
+  },
+  {
+    "collection": "related_paper_scopus",
+    "file": "scopus-43.txt",
+    "sha256": "13652e69df4b304e75c80c84db65c64bc46673190329a0d273663f9d6a4e5bad",
+    "entries": 93,
+    "export_date": "23 November 2025"
+  },
+  {
+    "collection": "related_paper_scopus",
+    "file": "scopus-44.txt",
+    "sha256": "06c3699206953628ddd4608acb5c21d8a7ec99195977848abdcbdd5d070c348c",
+    "entries": 46,
+    "export_date": "23 November 2025"
+  }
+]
