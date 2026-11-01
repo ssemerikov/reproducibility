@@ -1,5 +1,34 @@
 REPRODUCIBILITY PACKAGE — thesis aggregates and purposive evidence synthesis
 
+Data and materials for "Quantum knowledge and public reasoning in upper secondary
+education: an integrative synthesis" (Semerikov, Shokaliuk, Kanevska, Hamaniuk,
+Kolgatin, Lehka). The empirical data are a secondary analysis of the 2021
+dissertation study by L. V. Lehka (https://doi.org/10.31812/123456789/7042).
+
+Contents
+  CODEBOOK.md     variable definitions, coding schemes, transformations, formulae
+  instruments/    full text of the curriculum survey, teacher questionnaire and
+                  student entry test (Ukrainian with English), data-collection
+                  procedures, and what each instrument's data release contains
+  revision/data/  raw and processed data (see CODEBOOK.md):
+                  - curriculum survey, de-identified respondent level:
+                    curriculum_responses_deidentified.csv (raw labels) and
+                    curriculum_responses_coded.csv (both codings)
+                  - curriculum, teacher and student aggregates from the thesis
+                  - literature index, selection ledger and search logs
+  revision/tools/ extraction, audit, de-identification and analysis code
+  revision/tests/ numerical regression tests (standard library only)
+  thesis_recovered.xlsx  aggregate tables recovered from the thesis
+
+Not included, and why:
+  - the original curriculum-survey export: it contains timestamps, e-mail
+    addresses, position, length of service and free-text answers; the
+    de-identified files above contain every rating;
+  - individual teacher and student records: not retained from the 2021 study;
+    only the aggregates published in the thesis exist;
+  - the student exit test: not reproduced in the thesis;
+  - third-party literature exports and full texts: copyright.
+
 Quick reproduction (Python 3; standard library only):
   python3 revision/tools/analyse_aggregates.py --data revision/data --output derived
   python3 -m unittest discover -s revision/tests -v
@@ -13,8 +42,10 @@ from curriculum_weighted_counts.csv (item x self-rated expertise x category).
 The raw_count column treats the two punctuation variants of rather important
 as code 2; stored_count retains the numeric sheet's coding. Codes are -1, 1,
 0, 2, 3; weights are 1, 2, 3 (17, 15, 4 respondents; none at weight 4).
-No respondent identifier or linkage across items is supplied. Published scores,
-recoded scores and fixed/recomputed cutoff scenarios are distinct outputs.
+curriculum_weighted_counts.csv carries no respondent linkage; the de-identified
+respondent-level files reproduce it exactly (revision/tests/test_respondent_data.py).
+Published scores, recoded scores and fixed/recomputed cutoff scenarios are
+distinct outputs.
 workbook_item_comparison.csv and workbook_assessment.json document the audit.
 
 The same command writes selection_scenarios.csv, item_selection_robustness.csv
@@ -32,8 +63,9 @@ Optional audit against the restricted original curriculum workbook:
   python3 revision/tools/assess_response_workbook.py --workbook /path/to/original.xlsx --data revision/data --output workbook_audit
 This requires the original file identified by its hash in workbook_assessment.json.
 It is not supplied here because it contains respondent/contact and free-text
-fields. Its provenance was confirmed by the supplying author; this does not
-establish ethics or consent documentation. The audit releases only aggregates.
+fields. Its provenance was confirmed by the supplying author. The audit releases
+only aggregates. The de-identified respondent files were produced from it with:
+  python3 revision/tools/deidentify_curriculum_responses.py --workbook /path/to/original.xlsx --data revision/data --output revision/data
 
 Optional document extraction:
   pip install -r requirements.txt

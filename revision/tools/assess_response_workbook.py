@@ -115,7 +115,7 @@ def main():
                       'recoded_range_rule_cutoff': cutoff,
                       'recoded_at_recomputed_cutoff_count': sum(s >= cutoff for s in scores),
                       'published_shaded_selection_count': 41},
-        'source_confirmation': 'On 13 October 2026 the supplying author confirmed this as the original curriculum-survey export used for the thesis. Ethics and consent documentation remain pending.',
+        'source_confirmation': 'On 13 October 2026 the supplying author confirmed this as the original curriculum-survey export used for the thesis. Ethics approval and informed consent are reported in the article's declarations.',
         'analysis_scope': 'Audit of the existing 36-person curriculum survey; no independent sample and no silent replacement of published aggregates.',
         'limits': ['No student outcomes or separate 26-teacher survey in this workbook.',
                    'Does not resolve the two student-entry chart/table conflicts.',

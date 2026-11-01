@@ -365,6 +365,12 @@
       "method": "Crossref REST API (curl) + T&F landing page (browser)",
       "run": "2026-10-21",
       "outcome": "found: Borup, Brown, Konrad & Van Lente, The sociology of expectations in science and technology, TASM 18(3-4):285-298, July 2006; paywalled; landing page shows no abstract (only notes); content not verified"
+    },
+    {
+      "doi": "(URL check, not DOI) ncsc.gov.uk/whitepaper/quantum-security-technologies; ncsc.gov.uk/whitepaper/quantum-key-distribution",
+      "method": "curl -sIL redirect check",
+      "run": "2026-10-21",
+      "outcome": "legacy 2020 whitepaper URL -> 301 -> /paper/quantum-networking-technologies (2025); 2016 QKD whitepaper URL -> 301 -> /paper/quantum-security-technologies (2020); /paper/quantum-security-technologies -> 200"
     }
   ],
   "limitations": [
